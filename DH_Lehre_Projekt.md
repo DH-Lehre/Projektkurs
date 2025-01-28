@@ -17,13 +17,31 @@ narrator: US English Female
 
 # Projektidee
 
-Hier Text aus Projektantrag?
+Die begrenzte Verfügbarkeit von Quellen, bestehende Geschlechterstereotype, Vorurteile und fehlende "Role Models" sind nur einige der Herausforderungen, denen sich die Frauen- und Geschlechtergeschichte seit jeher stellen muss. In der Philosophie gibt es wiederum wenig(er) Aufmerksamkeit für Autorinnen:
+Nach wie vor prägen Texte von Männern die Wahrnehmung des Faches, obwohl Frauen seit der Öffnung der Universitaten Anfang des 20. Jahrhunderts am akademischen Diskurs teilnehmen konnten und ein großer Textkorpus von Philosophinnen vorliegt. Auch digitale Medien beeinflussen die Art und Weise, wie wir Geschichte erzählen, erleben, verbreiten und erarbeiten. Digitale Plattformen, Blogs, Foren und Social-Media-Kampagnen können ein neues Bewusstsein fûr geschlechtsspezifische Perspektiven schaffen und dazu beitragen, Veränderungen von Geschlechterrollen wahrzunehmen oder anzustoßen.
 
-Die digitale Forschungswerkstatt als DH-Seminarkonzept
-Kollaboratives Forschen 
-Interdisziplinäre Projektarbeit
+Studierenden wird mittels dieses Lehrprojekts die Möglichkeit geboten, sich forschungs- und quellenorientiert selbst ein Bild zu machen: 
+Im Format von pro Semester je zwei Forschungswerkstätten wird dazu systematisch an Frauenbiographien und dem Werk von Frauen gearbeitet. 
+Dabei kommen Methoden der Digital Humanities zum Einsatz, auch mit dem Ziel die Biographien einer großeren Offentlichkeit zugänglich zu machen. Studierende erlernen so nicht nur wichtige Kompetenzen in der Arbeit mit Quellen der Aufbereitung von Daten, sondern auch der Publikation und Wissenschaftskommunikation.
+
+![Portrait Frau](Images/diane-serik-xh3peN2DkE4-unsplash.jpg "Diane Serik auf Unsplash") Die in der Geschichte angesiedelten Projektseminare, widmen sich verschiedenen Frauenbiografien der Frühen Neuzeit (SoSe 2025) und des 20. Jahrhunderts (WiSe 24/25 und SoSe 25). 
+Denn auch noch in der Zeitgeschichte bleiben die Biografien vieler Frauen, bspw. von Wissenschaftlerinnen, vergleichsweise unsichtbar. Verantwortlich dafür war und ist die mangelnde Teilhabe vor Frauen an Wissenschaft und der wissenschaftlichen Geschichtsschreibung im Laufe des 19. Jahrhunderts, da ihnen schlichtweg der Zugang zu den Universitäten verwehrt blieb. Dies hatte zur Folge, dass die Themen von männlichen Handlungsräumen und Imaginationen beeinflusst wurden. 
+Die Studieren gewinnen im Rahmen der Veranstaltungen einen Überblick über marginalisierte (d.h. im akademischen Diskurs weitestgehend unberücksichtigte) Forscherinnen. Es werden die wenigen Spuren in den Blick genommen, die trotzdem von Frauen hinterlassen wurden: Im Universitats- und Landesarchiv in Schleswig befinden sich Quellen, die bislang in Hinblick auf Frauen- und Geschlechterforschung noch nicht ausgewertet wurden.
+
+![Flucht](Images/Bundesarchiv_Bild_146-1985-021-09,_Fluechtlinge.jpg "Bundesarchiv, Bild 146-1985-021-09 / Unknown author / CC-BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/de/deed.en") Die Seminare, die in der Philosophie angeboten werden, nehmen das Leben und Werk von Philosophinnen in den Blick, die aus Nazi-Deutschland fliehen mussten, und widmen sich dabei insbesondere dem Werk einer Auswahl von exilierten Philosophinnen, die bisher im akademischen Diskurs wenig Berücksichtigung gefunden haben.
+
+
+In den beiden forschungsorientierten Lehrveranstaltungen sammeln, strukturieren, interpretieren und veröffentlichen Studierende Informationen über Frauen, um Einblicke in soziale, familiäre und wissenschafliche Netzwerke von Frauen im 20. Jahrhundert zu erhalten. Umgesetzt werden die Lehrveranstaltungen im Format einer **digitalen Forschungswerkstatt**: 
+Der Arbeitsablauf wird Schritt für Schritt entwickelt, umgesetzt und diskutiert. Durch die Forschungspraxis werden Studierende mit digitalen Kenntnissen gängigen Methoden für die (digitale) Bearbeitung und Auswertung von bspw. handschriftichen Quellen vertraut gemacht. Die Lehrveranstaltungen bilden so eine solide Grundlage für die kritische Anwendung solcher Verfahren im weiteren Studium, wie bspw. in Abschlussarbeiten, und in wissensvermittelnden Berufsfeldern. 
+
+Die enge Kooperation zwischen Geschichte, Philosophie und Informatik, die in diesem Projekt angestrebt wird, soll u.a fachübergreifend nutzbare Lehrmaterialien und Open Educational Ressources hervorbringen. Ein Eindruck von einem Teil der bisherigen Ergebnisse kann in den Abschnitten zu den Projektseminaren gewonnen werden. 
+Durch das gemeinsame Lehrprojekt und den engen Austausch wird außerdem angestrebt, den Studierenden Einblick in die Praxis interdisziplinärer, kollaborative Forschungsprojekte zu geben.
+
 
 # Forschungsdatenmanagement
+
+![Interdiszipinäres Arbeiten](Images/marvin-meyer-SYTO3xs06fU-unsplash.jpg "Marvin Meyer auf Unsplash")
+
 ## Was sind Daten in den digitalen Geisteswissenschaften?
 
 In den digitalen Geisteswissenschaften (Digital Humanities) bezieht sich der Begriff "Daten" auf die digitalen Informationen, die als Grundlage für die Forschung, Analyse und Visualisierung genutzt werden. 
@@ -64,6 +82,8 @@ Ergebnisse von Text-Mining, Sentiment-Analysen, Topic Modeling oder Natural Lang
 
 ## Linked Open Data
 
+![Datennetz](Images/alina-grubnyak-ZiQkhI7417A-unsplash.jpg "Alina Grubnyak auf Unsplash")
+
 Linked Open Data (LOD) ist ein Konzept und eine Technologie, die darauf abzielt, Daten so zu veröffentlichen, dass sie im Internet miteinander verknüpft, maschinenlesbar und offen zugänglich sind. Es basiert auf den Prinzipien des Semantischen Webs und fördert die Nutzung von standardisierten Technologien, um die Interoperabilität von Daten über verschiedene Domänen hinweg zu ermöglichen.
 
 **Vorteile von Linked Open Data**
@@ -72,6 +92,8 @@ Linked Open Data (LOD) ist ein Konzept und eine Technologie, die darauf abzielt,
 - Maschinenlesbarkeit: Daten können von Algorithmen verarbeitet und analysiert werden, was Automatisierung und neue Forschung ermöglicht.
 - Wissenserweiterung durch Verknüpfungen: Verlinkungen erlauben es, Beziehungen und Muster zwischen Daten sichtbar zu machen, die vorher unzugänglich waren.
 - Offenheit und Nachnutzung: Durch offene Lizenzen können Daten frei genutzt, kombiniert und für neue Anwendungen aufbereitet werden.
+
+![Open](Images/tim-mossholder-ZYBl6VnUd_0-unsplash.jpg "Tim Mossholder auf Unsplah")
 
 **Kernprinzipien von Linked Open Data** (nach Tim Berners-Lee)
 
@@ -107,6 +129,8 @@ Beispiele für LOD Wissensdatenbanken:
 
 ## Digitale Editionen
 
+![Editionen abstrakt](Images/dan-cristian-padure-Al7oCLVJB8g-unsplash.jpg "Dan Christian Padure auf Unsplash")
+
 [LiaScript Kurs Digitale Editionswissenschaft](https://github.com/DH-Lehre/2023SoSe_Digitale-Editionswissenschaft)
 
 ## Metadatenmanagement 
@@ -120,11 +144,18 @@ Metadatenstandards
 Creative Commons Lizenzen
 
 ## FAIR-Prinzipien
-## Forschungszyklus 
+
+
+## Forschungsdatenzyklus 
+
+![Forschungsdatenzyklus TU Berlin](Images/csm_FDZyklus_de_2022_f6d41ddace.png "© SZF TU Berlin, CC BY 4.0")
+
 
 # Methoden und Tools der digitalen Projektarbeit
 
 ## Planen 
+
+![Planung](Images/kelly-sikkema-jr61kHaWKek-unsplash.jpg "Kelly Sikkema auf Unsplash")
 
 [Checkliste Planung](https://www.static.tu.berlin/fileadmin/www/40000027/Dokumente/Checkliste_Planung_2023.pdf) der TU-Berlin
 
@@ -135,6 +166,7 @@ Creative Commons Lizenzen
 Wo und wie recherchieren?
 
 Beispiele für Datensammlungen:
+
 - Die Deutsche Digitale Bibliothek (DDB)
 - Das Archivportal-D 
 - Das Zentrale Verzeichnis Digitalisierter Drucke (zvdd)
@@ -186,12 +218,19 @@ Distant Reading als Methode
 
 Verschiedene Visualisierungsmöglichkeiten
 
+### GIS und digitale Karten
+
+![earth](Images/nasa-1lfI7wkGWZ4-unsplash.jpg)
+
 ### Kollaborative Annotation mit CATMA?
 
 ### TEI Publisher
 
 Deep Reading als Methode
+
 Digitale Annotation
+
+![Annotation](Images/laura-chouette-lf_glVopdIQ-unsplash.jpg "Laura Chouette auf Unsplash")
 
 [TEI Publisher als "Deep Reading"-Tool](https://github.com/DH-Lehre/WiSe2023_Seminar-Heinrich-Bluechers-Nachlass/blob/main/main.md)
 
