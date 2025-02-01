@@ -74,7 +74,7 @@ Daten mit räumlichen Informationen, wie etwa GIS-Daten (Geoinformationssysteme)
 Anmerkungen zu Texten oder Bildern, etwa linguistische Analysen (z. B. grammatische oder semantische Markierungen) oder kulturelle Kontexte
 
 6. **Maschinell generierte Daten**
-Ergebnisse von Text-Mining, Sentiment-Analysen, Topic Modeling oder Natural Language Processing (NLP), bei denen Algorithmen verwendet werden, um aus Texten oder Bildern neue Daten abzuleiten
+Ergebnisse von Text-Mining, Sentiment-Analysen oder Topic Modeling, bei denen Algorithmen verwendet werden, um aus Texten oder Bildern neue Daten abzuleiten
 
 ## Linked Open Data
 
@@ -270,19 +270,39 @@ Digitale Annotation
 
 ### Git und Git Hub
 
+Unser Projektmaterial samt Forschungsergebnissen und Dokumentation der angewandten Forschungsmethoden teilen wir in unserem Projektrepository [DH-Lehre](https://github.com/DH-Lehre) auf GitHub.
+
+Die kombinierte Nutzung von Git und GitHub bietet in den Digital Humanities eine Möglichkeit, um Forschungsergebnisse zu teilen, zu versionieren und gemeinsam zu bearbeiten. Auf diese Weisee lassen sich die Zusammenarbeit, die Nachvollziehbarkeit von Änderungen und die Archivierung von Forschungsdaten erleichtern.
+
+Mit Git lassen sich verschiedene Versionen eines Codes verfolgen, Änderungen nachvollziehen und dokumentieren. Auch Textdaten, wie z. B. transkribierte Texte, können über Git versioniert werden. So bleibt immer nachvollziehbar, welche Änderungen im Text gemacht wurden und wann. 
+
+Die webbasierte Plattform GitHub ermöglicht es dann durch Uploads der Versionen mehreren Forscher*innen, gleichzeitig an einem Projekt zu arbeiten. In den DH ist Zusammenarbeit zwischen verschiedenen Disziplinen und Institutionen häufig erforderlich. GitHub stellt eine Plattform für die gemeinsame Bearbeitung, Diskussion und Verbesserung von Forschungsergebnissen dar.
+Wenn eine Person über einen "Pull request" Änderungen vorschlägt, können andere Forscher*innen diese Änderungen prüfen und diskutieren, bevor sie in das Hauptprojekt integriert werden. Dies hilft dabei, die Qualität der Arbeit zu sichern und sicherzustellen, dass alle Beteiligten auf dem neuesten Stand bleiben.
+
+Da GitHub die Möglichkeit zur Erstellung öffentlich zugänglicher Repositories bietet, können Forscher ihre Methodologien und Daten mit der breiten Öffentlichkeit teilen. So wird es für andere Forschende möglich, die Arbeit zu überprüfen und die Ergebnisse zu replizieren.
+
+Über die README-Dateien und Wikis auf GitHub können Forscher*innen ihre Methoden, Ziele und Ergebnisse detailliert dokumentieren. Dies sorgt für eine strukturierte und benutzerfreundliche Präsentation von Forschungsergebnissen.
+
+
 ## Nachnutzen 
 
 [Checkliste Nachnutzung](https://www.static.tu.berlin/fileadmin/www/40000027/Dokumente/Checkliste_Nachnutzug_2023.pdf) der TU-Berlin 
 
 ### LiaScript
 
-https://liascript.github.io/
+Zur Bereitstellung von interaktiven Lehrinhalten und der kollaborativen Darstellung der Forschungsergebnisse nutzen wir für unser Lehrprojekt LiaScript: Eine Markdown-basierte Skriptsprache, die speziell für die Erstellung interaktiver Online-Kurse und Dokumentationen entwickelt wurde. [LiaScript](https://liascript.github.io/) ermöglicht das einfache Erstellen von multimedialen, interaktiven und kollaborativen Lerninhalten – direkt in einem einfachen Textformat.
 
-[LiaScript workflow](https://github.com/DH-Lehre/liascript-workflow/blob/vorl%C3%A4ufige-%C3%84nderungen-branch/workshop.md)
+<iframe src="https://liascript.github.io/" width="800" height="600"></iframe>
+
+>Unser Modul [LiaScript workflow](https://github.com/DH-Lehre/liascript-workflow/blob/vorl%C3%A4ufige-%C3%84nderungen-branch/workshop.md) dient als kurze Einführung in die Arbeit mit LiaScript.
 
 ### Podcasts 
 
-[LiaScript Kurs Podcast-Leitfaden](https://github.com/DH-Lehre/Podcast-Leitfaden)
+![Podcasts Symbolbild](Images/jonathan-farber-gjHmip_Lmg4-unsplash.jpg "Jonathan Farber auf Unsplash") Podcasts sind eine effektive DH-Methode, um Forschungsergebnisse nachhaltig zu verbreiten, zu kontextualisieren und für verschiedene Zielgruppen zugänglich zu machen. Sie ermöglichen eine audio-basierte Wissenschaftskommunikation und schaffen eine Brücke zwischen akademischer Forschung und Öffentlichkeit.
+Auch in diesem Lehrprojekt sind in diesem Sinne Podcasts entstanden: 
+[Link zu Podacast?](...)
+
+>Eine Anleitung zum Erstellen von Podcasts und Audioessays als Prüfungsleistung oder Projektarbeit findet sich als LiaScript-Modul in unserem Projektrepository: [Podcast-Leitfaden](https://github.com/DH-Lehre/Podcast-Leitfaden). 
 
 # Projektseminare
 
