@@ -118,11 +118,24 @@ Beispiele für LOD Wissensdatenbanken:
 - Europeana: Eine digitale Plattform für das kulturelle Erbe Europas, die Linked Open Data nutzt, um Museen, Bibliotheken und Archive miteinander zu verbinden.
 - Library of Congress: Verwendet Linked Open Data, um ihre Kataloge für maschinenlesbare Anfragen bereitzustellen
 
+## FAIR-Prinzipien
+
+Die FAIR-Prinzipien ((Findable, Accessible, Interoperable, Reusable) dienen als Leitprinzipien dafür, dass Daten langfristig und unabhängig zugänglich, nachnutzbar und nachprüfbar bleiben.
+Der Hauptunterschied zwischen den LOD- und den FAIR-Prinzipien liegt in der Accessibility, da im Vergleich zu den Linked Open Daten nicht alle Forschungsergebnisse zur Verfügung gestellt werden. Forschungsdaten (FDM) sollten generell so offen wie möglich sein.
+Während das Hauptziel der FAIR-Prinzipien in einer Erhöhung der Nachnutzbarkeit von Daten liegt, stellt der Fokus der LOD-Prinzipien die Zugänglichkeit der Daten dar.
+
+Ein entsprechendes LiaScript-Modul von Britta Petersen finden Sie [hier](...).
+
 ## Digitale Editionen
 
-![Editionen abstrakt](Images/dan-cristian-padure-Al7oCLVJB8g-unsplash.jpg "Dan Christian Padure auf Unsplash")
+![Editionen abstrakt](Images/dan-cristian-padure-Al7oCLVJB8g-unsplash.jpg "Dan Christian Padure auf Unsplash") Der digitale Editionsprozess stellt einen wesentlichen Teil der Projektseminare dar. Anders, als es vielleicht die erste Intuition verrät, ist eine digitale Edition mehr als ein gescannter Text – sie nutzt digitale Technologien, um Texte umfassender darzustellen, interaktiv nutzbar zu machen und wissenschaftlich auszuwerten.
 
-[LiaScript Kurs Digitale Editionswissenschaft](https://github.com/DH-Lehre/2023SoSe_Digitale-Editionswissenschaft)
+>Was eine Edition zu einer digitalen Edition macht, wurde im SoSe 2023 konkret in einem Kurs zur Digitalen Editionswissenschaft erarbeitet und in dem entsprechenden [LiaScript-Modul zur digitalen Editionswissenschaft](https://github.com/DH-Lehre/2023SoSe_Digitale-Editionswissenschaft) dokumentiert.
+
+Literaturempfehlungen: 
+
+- Baillot, Anne/Schnöpf, Markus: Von wissenschaftlichen Editionen als interoperablen Projekten, oder: Was können eigentlich digitale Editionen?, in: Digital Humanities. Praktiken der Digitalisierung, der Dissemination und der Selbstreflexivität, hrsg. von Wolfgang Schmale, Stuttgart 2015, S. 139-156.
+- Sahle, P. 2016. 2. What is a Scholarly Digital Edition? In: Driscoll, M. J., & Pierazzo, E. (Eds.), Digital Scholarly Editing: Theories and Practices. Open Book Publishers. aus dem Werk: http://books.openedition.org/obp/3397
 
 ## Metadatenmanagement 
 - Deskriptive Metadaten
@@ -138,8 +151,67 @@ Beispiele:
 
 Creative Commons Lizenzen
 
-## FAIR-Prinzipien
+## Umgang mit X-Technologien
 
+>Die Arbeit in dem interdisziplinären Feld der Digital Humanities setzt nicht notwendigerweise ein ganzes Informatikstudium voraus. Doch zumindest der Umgang mit Technologien zur strukturierten Datenverarbeitung stellt eine wesentliche Grundlage des digitalen Forschungsdatenmanagements und des Einsatzes von DH-Tools in der digitalen Projektarbeit dar.
+>So ist gerade die Arbeit mit **XML, RDF und TEI** auch entscheidend für die strukturierte digitale Erfassung, Analyse und Veröffentlichung von Frauenbiographien und findet als kleinerer interaktiver Theorieinput ebenfalls Eingang in die jeweiligen Projektseminare. 
+
+>Zur Selbst-Überprüfung des eigenen Vorwissens zu XML dient das folgende Quiz. Bei Bedarf: In dem [Kus zur Digitalen Editionswissenschaft](https://github.com/DH-Lehre/2023SoSe_Digitale-Editionswissenschaft/blob/main/main.md) findet sich eine kurze Einführung in die Grundlagen zu XML, TEI, XSLT und HTML. :-)
+>Ebenfalls als Einführung in die genannten Technologien eignet sich: Jannidis, F.; Kohle, H. & Rehbein, M. (Eds.): Digital Humanities. J.B. Metzler, 2017.
+
+<br>
+
+1. Warum müssen bestimmte Zeichen mit speziellen Zeichen enkodiert werden, bspw. '<' durch '<'?
+2. Was ist der Unterschied zwischen *well formed* und *valid* in Bezug auf XML?
+3. Was bedeutet es, dass XML eine Metasprache ist?
+4. Welche Funktion haben Schemata?
+5. Was ist ein Namensraum (*namespace*)?
+6. Was ist XSLT und wofür wird es benötigt bzw. eingesetzt?
+
+---
+
+Das folgende XML-Dokument enthält einige Probleme, welche?
+
+```xml
+<book>
+   <title>The Great Gatsby</title>
+   <author>F. Scott Fitzgerald</author>
+   <year>1925<year>
+   <publishing>
+      Publishing House
+      <name>Penguin</name>
+      <city>New York</city>
+   </publishing>
+</book>
+```
+
+---
+
+Gegeben ist das folgende XML-Snippet:
+
+```xml
+<library>
+   <book>
+      <title>The Hobbit</title>
+      <author>J.R.R. Tolkien</author>
+      <year>1937</year>
+      <publisher>Houghton Mifflin</publisher>
+   </book>
+   <book>
+      <title>To Kill a Mockingbird</title>
+      <author>Harper Lee</author>
+      <year>1960</year>
+      <publisher>J. B. Lippincott & Co.</publisher>
+   </book>
+</library>
+```
+
+In welchen Verhältnissen stehen die Elemente zueinander?
+
+
+
+?? [LiaScript Kurs zum Umgang mit X-Technologien](in progress)
+?? XML-Datenbanken 
 
 ## Forschungsdatenzyklus 
 
@@ -160,11 +232,11 @@ https://conceptboard.com/de/
 
 ## Sammeln 
 
-Wo und wie recherchieren?
+ ![Sammeln Symbolbild](Images/nathalia-segato-V9qc-JVKIBo-unsplash.jpg "Nathalia Segato auf Unsplah") **Wo und wie recherchieren?**
 
-**Beispiele für Datensammlungen:**
+**Beispiele für Datensammlungen:** 
 
-- [Die Deutsche Digitale Bibliothek (DDB)](https://www.deutsche-digitale-bibliothek.de/)
+- [Die Deutsche Digitale Bibliothek (DDB)](https://www.deutsche-digitale-bibliothek.de/)  
 - [Das Archivportal-D](https://www.archivportal-d.de/)
 - [Das Zentrale Verzeichnis Digitalisierter Drucke (zvdd)](https://www.zvdd.de/startseite/)
 - [Der Worldcat](https://search.worldcat.org/de)
@@ -198,28 +270,31 @@ Wo und wie recherchieren?
 - [Digitales Archiv We Refugees Archive]()
 - [Jewish Women's Archiv](https://jwa.org/)
 
-### Umgang mit X-Technologien
-XML, TEI, RDF
-
-[LiaScript Kurs zum Umgang mit X-Technologien](in progress)
-
-XML-Datenbanken 
-
 ### SPARQL-Suchabfragen
+
+![Suche Symbolbild](Images/houcine-ncib-P5L8gICF0CI-unsplash.jpg "Housine Ncib auf Unsplash")
 
 ### Arcinsys
 
-[LiaScript Kurs zur Einführung in die Arbeit mit Arcinsys](https://github.com/DH-Lehre/arcinsys-workflow)
+Zur Recherche von historischen Archivalien nutzen wir in unseren Projektseminaren unter anderem [Arcinsys](https://arcinsys.schleswig-holstein.de/arcinsys/start.action): 
+
+Ein webbasiertes Archivsystem, das entwickelt wurde, um den Zugang zu Archivmaterialien einfacher und effizienter zu gestalten. Es ermöglicht Nutzer*innen, historische Dokumente und Bestände in verschiedenen Archiven online zu recherchieren, zu verwalten und Nutzungsanfragen zu stellen. Nach erfolgreicher Nutzungsbeantragung haben Sie die Möglichkeit, bequem von überall aus auf die archivierten Dokumente - sogenannte Archivalien - zuzugreifen. Der Zugriffsstatus kann dabei transparent nachvollzogen werden.
+
+<iframe src="https://arcinsys.schleswig-holstein.de/arcinsys/start.action" width="800" height="600"></iframe>
+
+>In [diesem kurzen LiaScript-Workshop](https://github.com/DH-Lehre/arcinsys-workflow) erhalten Sie einen Überblick darüber, wie Sie sich in Arcinsys orientieren, Bestände recherchieren, persönliche Merklisten anlegen und Anfragen für Archivgut erstellen können, sodass Sie das System mithilfe dieser Funktionen im Anschluss effektiv in Ihren Workflow einbinden können.
 
 ## Speichern 
 
-[Checkliste Speicherung](https://www.static.tu.berlin/fileadmin/www/40000027/Dokumente/Checkliste_Speicherung_2023.pdf) der TU-Berlin
+![Speichern Symbolbild](Images/glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg "Glenn Carstens Peters auf Unsplash") [Checkliste Speicherung](https://www.static.tu.berlin/fileadmin/www/40000027/Dokumente/Checkliste_Speicherung_2023.pdf) der TU-Berlin
 
-Textdigitalisierung
+Textdigitalisierung..
 
 ### Scan Tent und Transkribus
 
-[LiaScript Kurs zur Einführung in die Arbeit mit Transkribus](https://github.com/DH-Lehre/transkribus-workflow)
+Dieser [LiaScript Kurs](https://github.com/DH-Lehre/transkribus-workflow) dient als Einführung in die Nutzung von Transkribus - einer webbasierten Software zur automatischen Texterkennung und Transkription von handschriftlichen und gedruckten Dokumenten. Sie erhalten einen kurzen Überblick über die Nutzungsmöglichkeiten und grundlegenden Funktionen, sodass Sie anschließend mit Ihrem individuellen Workflow starten können.
+
+HINWEIS: Transkribus funktioniert nicht im Safari-Browser. Sollten Sie ein Apple-Endgerät verwenden, wechseln Sie bitte für die Arbeit mit Transkribus zu Chrome oder Firefox.
 
 ## Auswerten 
 ### Named Entity Recognition (Stanford-NER)?
@@ -262,31 +337,203 @@ Digitale Annotation
 
 ### Omeka S
 
-[LiaScript Kurs zur Einführung in die Arbeit mit OmekaS](https://github.com/DH-Lehre/Omeka-S-Workflow)
+Als DH-Tool zur Archivierung und Präsentation der Forschungsergebnisse wird in den geschichtlichen Seminaren zu Frauengeschichten Omeka-S verwendet: Eine webbasierte Open-Source-Software, die speziell für die Erstellung und Verwaltung digitaler Sammlungen und Ausstellungen entwickelt wurde. Ein Schwerpunkt liegt hierbei auf der Verwaltung von Metadaten.
+
+Mit Omeka S können Sie...
+
+- digitale Archive erstellen, indem Sie Inhalte wie Bilder, Texte, Videos und Dokumente in Sammlungen organisieren und zugänglich machen,
+- semantische Verknüpfungen herstellen (Objekte können miteinander und mit externen Datenquellen verknüpft werden),
+- (mehrere) Webseiten innerhalb einer Installation gestalten (und diese, wenn gewünscht, miteinander verknüpfen),
+- individuelle Metadaten-Schemata nutzen.
+
+>Dieser [LiaScript Kurs](https://github.com/DH-Lehre/Omeka-S-Workflow) dient als Einführung in die Arbeit mit OmekaS.
+
+<iframe src="https://projekt03.omeka-s.ub.uni-kiel.de/" width="800" height="600"></iframe>
+
+>Die im Rahmen des geschichtlichen Seminars im SoSe 2024 erarbeiteten digitalen Ausstellungen finden Sie [hier](https://projekt03.omeka-s.ub.uni-kiel.de/).
 
 ## Teilen 
 
-[Checkliste Veröffentlichung](https://www.static.tu.berlin/fileadmin/www/40000027/Dokumente/Checkliste_Veroeffentlichung_2023.pdf) der TU-Berlin 
+![Teilen Symbolbild](Images/jose-martin-ramirez-carrasco-45sjAjSjArQ-unsplash.jpg "Jose Martin Ramirez Carrasco auf Unsplash") [Checkliste Veröffentlichung](https://www.static.tu.berlin/fileadmin/www/40000027/Dokumente/Checkliste_Veroeffentlichung_2023.pdf) der TU-Berlin 
 
 ### Git und Git Hub
 
-Unser Projektmaterial samt Forschungsergebnissen und Dokumentation der angewandten Forschungsmethoden teilen wir in unserem Projektrepository [DH-Lehre](https://github.com/DH-Lehre) auf GitHub.
+>Unser Projektmaterial samt Forschungsergebnissen und Dokumentation der angewandten Forschungsmethoden teilen wir in unserem Projektrepository [DH-Lehre](https://github.com/DH-Lehre) auf GitHub.
+>
+>In den DH ist Zusammenarbeit zwischen verschiedenen Disziplinen und Institutionen häufig erforderlich. Die kombinierte Nutzung von **Git** und **GitHub** bietet eine Möglichkeit, um Forschungsergebnisse zu **teilen**, zu **versionieren** und **gemeinsam zu bearbeiten**. Auf diese Weise lassen sich die Zusammenarbeit, die Nachvollziehbarkeit von Änderungen und die Archivierung von Forschungsdaten erleichtern.
+>
+>Mit [Git](https://git-scm.com/) lassen sich verschiedene Versionen eines Codes verfolgen, Änderungen nachvollziehen und dokumentieren. Auch Textdaten, wie z. B. transkribierte Texte, können über Git versioniert werden. So bleibt immer nachvollziehbar, welche Änderungen im Text gemacht wurden und wann. 
+>
+>Die webbasierte Plattform [GitHub](https://github.com/) ermöglicht es dann durch Uploads der Versionen mehreren Forscher:innen, gleichzeitig an einem Projekt zu arbeiten. Schlägt eine Person über einen "Pull request" Änderungen vor, können andere Forscher*innen diese Änderungen prüfen und diskutieren, bevor sie in das Hauptprojekt integriert werden. Dies hilft dabei, die Qualität der Arbeit zu sichern und sicherzustellen, dass alle Beteiligten auf dem neuesten Stand bleiben.
+>
+>Da GitHub die Möglichkeit zur Erstellung **öffentlich zugänglicher Repositories** bietet, können Forscher:innen ihre Methodologien und Daten mit der breiten Öffentlichkeit teilen. So wird es für andere Forschende möglich, die Arbeit zu überprüfen und die Ergebnisse zu replizieren.
+>
+>Über die **README-Dateien** und Wikis können zudem Methoden, Ziele und Ergebnisse dokumentiert werden, was für eine strukturierte und benutzerfreundliche Präsentation von Forschungsergebnissen sorgt.
 
-Die kombinierte Nutzung von Git und GitHub bietet in den Digital Humanities eine Möglichkeit, um Forschungsergebnisse zu teilen, zu versionieren und gemeinsam zu bearbeiten. Auf diese Weisee lassen sich die Zusammenarbeit, die Nachvollziehbarkeit von Änderungen und die Archivierung von Forschungsdaten erleichtern.
+<br>
+<br>
 
-Mit Git lassen sich verschiedene Versionen eines Codes verfolgen, Änderungen nachvollziehen und dokumentieren. Auch Textdaten, wie z. B. transkribierte Texte, können über Git versioniert werden. So bleibt immer nachvollziehbar, welche Änderungen im Text gemacht wurden und wann. 
+Diese Anleitung hilft dir, **Git** und **GitHub** Schritt für Schritt zu nutzen.
 
-Die webbasierte Plattform GitHub ermöglicht es dann durch Uploads der Versionen mehreren Forscher*innen, gleichzeitig an einem Projekt zu arbeiten. In den DH ist Zusammenarbeit zwischen verschiedenen Disziplinen und Institutionen häufig erforderlich. GitHub stellt eine Plattform für die gemeinsame Bearbeitung, Diskussion und Verbesserung von Forschungsergebnissen dar.
-Wenn eine Person über einen "Pull request" Änderungen vorschlägt, können andere Forscher*innen diese Änderungen prüfen und diskutieren, bevor sie in das Hauptprojekt integriert werden. Dies hilft dabei, die Qualität der Arbeit zu sichern und sicherzustellen, dass alle Beteiligten auf dem neuesten Stand bleiben.
+<br>
 
-Da GitHub die Möglichkeit zur Erstellung öffentlich zugänglicher Repositories bietet, können Forscher ihre Methodologien und Daten mit der breiten Öffentlichkeit teilen. So wird es für andere Forschende möglich, die Arbeit zu überprüfen und die Ergebnisse zu replizieren.
+1. **Git installieren**
 
-Über die README-Dateien und Wikis auf GitHub können Forscher*innen ihre Methoden, Ziele und Ergebnisse detailliert dokumentieren. Dies sorgt für eine strukturierte und benutzerfreundliche Präsentation von Forschungsergebnissen.
+*Windows*
 
+- Lade Git von [git-scm.com](https://git-scm.com/downloads) herunter.
+- Installiere es mit den Standardeinstellungen.
+- Öffne **Git Bash**.
+
+*Mac*
+
+```bash
+brew install git
+```
+
+*Linux (Ubuntu/Debian)*
+
+```bash
+sudo apt update && sudo apt install git
+```
+
+*Überprüfung:*
+
+```bash
+git --version
+```
+-------------------------
+<br>
+
+2. **Git konfigurieren**
+
+```bash
+git config --global user.name "Dein Name"
+git config --global user.email "deine.email@example.com"
+git config --list
+```
+--------------------------
+<br>
+
+3. **Ein Git-Repository erstellen**
+
+*Neues lokales Repo*
+
+```bash
+mkdir mein-projekt
+cd mein-projekt
+git init
+```
+
+*Vorhandenes Repo klonen*
+
+```bash
+git clone https://github.com/USERNAME/REPOSITORY.git
+```
+------------------------------------
+<br>
+
+4. **Dateien hinzufügen & committen**
+
+```bash
+echo "# Mein Projekt" > README.md
+git add README.md
+git commit -m "Erster Commit: README hinzugefügt"
+```
+-------------------------------------
+<br>
+
+5. **GitHub mit Git verbinden**
+
+- *GitHub-Account erstellen* unter [github.com](https://github.com/).
+- *Neues Repository anlegen* (ohne README oder `.gitignore`).
+- *Lokales Repository mit GitHub verknüpfen:*
+
+```bash
+git remote add origin https://github.com/USERNAME/REPOSITORY.git
+git branch -M main
+git push -u origin main
+```
+----------------------------------
+<br>
+
+6. **Änderungen verfolgen & aktualisieren**
+
+*Status prüfen:*
+
+```bash
+git status
+```
+*Änderungen committen & pushen:*
+
+```bash
+git add .
+git commit -m "Neue Änderungen"
+git push
+```
+*Änderungen von GitHub abrufen:*
+
+```bash
+git pull origin main
+```
+----------------------------------
+<br>
+
+7. **Arbeiten mit Branches**
+
+*Neuen Branch erstellen & wechseln:*
+
+```bash
+git checkout -b feature-xyz
+```
+*Änderungen pushen:*
+
+```bash
+git push origin feature-xyz
+```
+*Branch mergen:*
+
+```bash
+git checkout main
+git merge feature-xyz
+git push origin main
+```
+---------------------------------
+<br>
+
+8. **Zusammenarbeit (Pull Requests & Forks)**
+
+1. Forke ein Repository auf GitHub
+2. Klone es auf deinen Rechner
+3. Erstelle einen neuen Branch, arbeite daran, pushe ihn zu GitHub
+4. Stelle einen Pull Request
+
+------------------------------------
+<br>
+
+9. **Fehler rückgängig machen**
+
+*Letzten Commit rückgängig machen:*
+
+```bash
+git reset --soft HEAD~1
+```
+*Letzten Commit komplett verwerfen:*
+
+```bash
+git reset --hard HEAD~1
+```
+*Bestimmte Datei zurücksetzen:*
+
+```bash
+git checkout -- datei.txt
+```
+
+>Bei Bedarf finden Sie [hier](https://docs.github.com/de/get-started/start-your-journey/git-and-github-learning-resources) weitere Ressourcen zu Git und GitHub. :-)
 
 ## Nachnutzen 
 
-[Checkliste Nachnutzung](https://www.static.tu.berlin/fileadmin/www/40000027/Dokumente/Checkliste_Nachnutzug_2023.pdf) der TU-Berlin 
+![Nachnutzung Symbolbild](Images/kyle-glenn--f8ssjFhD1k-unsplash.jpg "Kyle Glenn auf Unsplash") [Checkliste Nachnutzung](https://www.static.tu.berlin/fileadmin/www/40000027/Dokumente/Checkliste_Nachnutzug_2023.pdf) der TU-Berlin 
 
 ### LiaScript
 
