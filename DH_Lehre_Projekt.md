@@ -42,6 +42,21 @@ Durch das gemeinsame Lehrprojekt und den engen Austausch wird außerdem angestre
 
 ![Interdiszipinäres Arbeiten](Images/marvin-meyer-SYTO3xs06fU-unsplash.jpg "Marvin Meyer auf Unsplash") Forschungsdatenmanagement (FDM) dient dazu, Forschungsdaten systematisch zu organisieren, zu speichern, zu dokumentieren und langfristig zugänglich zu machen. Es spielt eine entscheidende Rolle für die Qualität, Reproduzierbarkeit und Nachnutzung wissenschaftlicher Arbeiten.
 
+>Die digitale Forschungsprozess in unseren Seminaren orientiert sich entsprechend an dem Zyklus für Forschungsdaten.
+>Der **Forschungsdatenzyklus** beschreibt den Lebenszyklus von Forschungsdaten von der Planung bis zur Nachnutzung. Die TU Berlin definiert diesen Zyklus in mehreren Phasen, die auch für das Forschungsdatenmanagement (FDM) in den Digital Humanities (DH) besonders relevant sind.
+
+![Forschungsdatenzyklus TU Berlin](Images/csm_FDZyklus_de_2022_f6d41ddace.png "© SZF TU Berlin, CC BY 4.0")
+
+| **Phase**         | **Bedeutung für das FDM in den Digital Humanities (DH)** |
+|------------------|--------------------------------------------------|
+| **Planen**       | - Definition von Forschungsfragen und Datenmanagementstrategien <br> - Wahl geeigneter Standards (z. B. TEI für Texte) <br> - Klärung rechtlicher Fragen (Urheberrecht, Lizenzierung) |
+| **Sammeln**      | - Suche nach und Bestellen von Archivalien <br> - Datenbanken gezielt durchsuchen <br> - Standardisierte Metadatenerfassung |
+| **Speichern**    | - Digitale Erfassung und Speicherung von Texten, Bildern, Audio oder 3D-Scans <br> - Nutzung von OCR, Digitalisierungs- und Erhebungstools <br> - Auswahl geeigneter Speicherorte und Dateiformate <br> - Nutzung institutioneller Repositorien oder Cloud-Lösungen <br> - Sicherstellung von Backup-Strategien und Datenintegrität |
+| **Auswerten**    | - Anwendung digitaler Methoden wie Topic Modeling, Netzwerkanalyse, Sentiment Analysis <br> - Einsatz von Software wie Voyant Tools, Gephi oder Python <br> - Sicherstellung der Reproduzierbarkeit durch Dokumentation |
+| **Beschreiben**  | - Annotieren <br> - Anreicherung der Daten mit strukturierten Metadaten <br> - Nutzung standardisierter Vokabulare und Ontologien <br> - Dokumentation der Datenherkunft und Verarbeitungsschritte |
+| **Archivieren**  | - Speicherung in Langzeitarchiven <br> - Sicherstellung der langfristigen Lesbarkeit <br> - Vergabe von Persistent Identifiers (z. B. DOI) |
+| **Teilen**       | - Veröffentlichung der Daten für die Forschungsgemeinschaft <br> - Lizenzierung zur Nachnutzung <br> - Bereitstellung über digitale Repositorien und Fachzeitschriften |
+| **Nachnutzen**   | - Weiterentwicklung der Daten durch andere Forschende (z. B. digitale Editionen) <br> - Integration in andere DH-Projekte durch Linked Open Data <br> - Förderung von interdisziplinärer Zusammenarbeit und Open Science |
 
 ## Was sind Daten in den digitalen Geisteswissenschaften?
 
@@ -120,7 +135,7 @@ Beispiele für LOD Wissensdatenbanken:
 
 ## FAIR-Prinzipien
 
-Die FAIR-Prinzipien ((Findable, Accessible, Interoperable, Reusable) dienen als Leitprinzipien dafür, dass Daten langfristig und unabhängig zugänglich, nachnutzbar und nachprüfbar bleiben.
+Die FAIR-Prinzipien (Findable, Accessible, Interoperable, Reusable) dienen als Leitprinzipien dafür, dass Daten langfristig und unabhängig zugänglich, nachnutzbar und nachprüfbar bleiben.
 Der Hauptunterschied zwischen den LOD- und den FAIR-Prinzipien liegt in der Accessibility, da im Vergleich zu den Linked Open Daten nicht alle Forschungsergebnisse zur Verfügung gestellt werden. Forschungsdaten (FDM) sollten generell so offen wie möglich sein.
 Während das Hauptziel der FAIR-Prinzipien in einer Erhöhung der Nachnutzbarkeit von Daten liegt, stellt der Fokus der LOD-Prinzipien die Zugänglichkeit der Daten dar.
 
@@ -281,10 +296,6 @@ In welchen Verhältnissen stehen die Elemente zueinander?
 
 ?? [LiaScript Kurs zum Umgang mit X-Technologien](in progress)
 ?? XML-Datenbanken 
-
-## Forschungsdatenzyklus 
-
-![Forschungsdatenzyklus TU Berlin](Images/csm_FDZyklus_de_2022_f6d41ddace.png "© SZF TU Berlin, CC BY 4.0")
 
 
 # Methoden und Tools der digitalen Projektarbeit
