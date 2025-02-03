@@ -124,7 +124,7 @@ Die FAIR-Prinzipien ((Findable, Accessible, Interoperable, Reusable) dienen als 
 Der Hauptunterschied zwischen den LOD- und den FAIR-Prinzipien liegt in der Accessibility, da im Vergleich zu den Linked Open Daten nicht alle Forschungsergebnisse zur Verfügung gestellt werden. Forschungsdaten (FDM) sollten generell so offen wie möglich sein.
 Während das Hauptziel der FAIR-Prinzipien in einer Erhöhung der Nachnutzbarkeit von Daten liegt, stellt der Fokus der LOD-Prinzipien die Zugänglichkeit der Daten dar.
 
-Ein entsprechendes LiaScript-Modul von Britta Petersen finden Sie [hier](...).
+Ein entsprechendes LiaScript-Modul von Britta Petersen finden Sie [hier](https://liascript.github.io/course/?https://raw.githubusercontent.com/RDM4CAU/lehre/main/Philo_DH-Sem_2024/FDM.md#1).
 
 ## Digitale Editionen
 
@@ -138,18 +138,87 @@ Literaturempfehlungen:
 - Sahle, P. 2016. 2. What is a Scholarly Digital Edition? In: Driscoll, M. J., & Pierazzo, E. (Eds.), Digital Scholarly Editing: Theories and Practices. Open Book Publishers. aus dem Werk: http://books.openedition.org/obp/3397
 
 ## Metadatenmanagement 
-- Deskriptive Metadaten
-- Strukturelle Metadaten
-- Administrative Metadaten
-- Technische Metadaten
 
-Metadatenstandards
+Metadaten sind „Daten über Daten“ – sie liefern beschreibende, technische und administrative Informationen zu Forschungsdaten.
 
-Normdatenbanken
-Beispiele:
- [Gemeinsame Normdatei (GND) der Deutschen Nationalbibliothek](https://www.dnb.de/DE/Professionell/Standardisierung/GND/gnd_node.html)
+Typische Metadatenkategorien sind:
 
-Creative Commons Lizenzen
+- Deskriptive Metadaten: Titel, Autor(en), Schlüsselwörter, Zusammenfassung
+- Strukturelle Metadaten: Beziehungen zwischen Datensätzen oder Versionen
+- Technische Metadaten: Dateiformat, Software, Sensor- oder Messparameter
+- Administrative Metadaten: Lizenz, Zugriffsrechte, Urheberrecht, Aufbewahrungsfristen
+- Provenienz-Metadaten: Entstehungsgeschichte, Datenverarbeitungsschritte, Versionierung
+
+Warum sind Metadaten für das FDM wichtig?
+
+- *Auffindbarkeit und Nachnutzbarkeit*: Metadaten machen Forschungsdaten auffindbar, z. B. durch Kataloge oder Suchmaschinen (FAIR-Prinzipien: Findable). Wissenschaftler:innen können durch standardisierte Metadaten relevante Datensätze leichter finden.
+- *Kontext und Interpretierbarkeit*: Metadaten helfen, den Kontext der Daten zu verstehen: Wer hat die Daten erhoben? Wie wurden sie generiert? Welche Methoden wurden verwendet? Ohne Metadaten sind Daten oft unbrauchbar, da wichtige Informationen über ihre Entstehung fehlen.
+- *Interoperabilität und Austauschbarkeit*: Standardisierte Metadatenformate (z. B. Dublin Core, DataCite, ISO 19115) ermöglichen den Datenabgleich zwischen Systemen, Institutionen und Disziplinen. Dies erleichtert die Zusammenarbeit und ermöglicht das automatisierte Verarbeiten von Daten.
+- *Langfristige Archivierung und Reproduzierbarkeit*: Forschungsdaten müssen oft über Jahre oder Jahrzehnte aufbewahrt werden. Metadaten helfen, diese lesbar und interpretierbar zu halten, selbst wenn Technologien oder Formate sich ändern. Sie sind somit essenziell für die Reproduzierbarkeit wissenschaftlicher Ergebnisse.
+- *Zitierfähigkeit und wissenschaftliche Anerkennung*: Mit Metadaten können Datensätze als eigenständige Forschungsleistung veröffentlicht und zitiert werden (z. B. durch DOIs von DataCite). Wissenschaftler:innen erhalten dadurch Anerkennung für ihre Daten und können ihre Forschung besser nachweisen.
+
+### Metadatenstandards
+
+Metadatenstandards sind normierte Schemata zur strukturierten Beschreibung von Daten. Sie definieren, welche Metadatenfelder existieren, welche Informationen sie enthalten und in welchem Format sie gespeichert werden.
+
+Zu den wichtigen Standards gehören:
+
+| **Standard**         | **Einsatzgebiet** |
+|----------------------|------------------|
+| **Dublin Core (DC)** | Allgemeine Beschreibung von Dokumenten, Webseiten und digitalen Objekten |
+| **DataCite Metadata Schema** | Standard für Forschungsdaten und DOI-Registrierung |
+| **MODS (Metadata Object Description Schema)** | Bibliotheken, digitale Sammlungen |
+| **METS (Metadata Encoding and Transmission Standard)** | Archivierung und Austausch komplexer digitaler Objekte |
+| **EAD (Encoded Archival Description)** | Archive und Nachlässe |
+| **ISO 19115** | Geodaten (GIS, Fernerkundung) |
+| **CIDOC CRM** | Kulturelles Erbe, Museen |
+| **TEI (Text Encoding Initiative)** | Digital Humanities, Texteditionen |
+| **DCAT (Data Catalog Vocabulary)** | Open Data und Linked Open Data |
+| **PREMIS (Preservation Metadata)** | Digitale Langzeitarchivierung |
+
+### Normdatenbanken
+
+Normdatenbanken sind strukturierte Sammlungen von standardisierten Informationen. Solche Normdaten bieten ein kontrolliertes Vokabular zur Identifikation von Personen, Orten, Institutionen u.v.m. In Normdatenbanken werden Normdaten anhand eines eindeutigen, persistenten Identifiers zur Verfügung gestellt. Dieser wird auch als Uniform Resource Identifier (URI) bezeichnet.
+
+**Wichtige Normdatenbanken:**
+
+- [Gemeinsame Normdatei (GND) der Deutschen Nationalbibliothek](https://www.dnb.de/DE/Professionell/Standardisierung/GND/gnd_node.html): Personen, Körperschaften, Orte
+- [LCCN (Library of Congress Control Number)](https://www.loc.gov/programs/preassigned-control-number/about-this-program/): amerikanische Variante der GND
+- [VIAF (Virtual International Authority File)](https://viaf.org/de): Mapping versch. Normdaten
+- [Geonames](https://www.geonames.org/): offenes Projekt für Ortsnamen
+- [TGN (Getty Thesaurus of Geographic Names)](https://www.getty.edu/research/tools/vocabularies/tgn/): Ortsnamen
+- [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page): Eine offene, kollaborative Datenbank für strukturierte Daten
+
+Eine entscheidende Rolle im digitalen Editionsprozess spielt das sogenannte **Linking** - die Verknüpfung von Daten zwischen verschiedenen Normdatenbanken oder zwischen identifizierten benannten Entitäten und einer ausführlichen Erklärung bzw. einem Normdatum.
+Ein Beispiel hierfür findet sich [hier](https://liascript.github.io/course/?https://raw.githubusercontent.com/DH-Lehre/2023SoSe_Digitale-Editionswissenschaft/main/main.md#100).
+
+**Nutzen von Normdaten und Linking:**
+
+- Eindeutige Identifikation: Verhindert Verwechslungen (z. B. zwischen verschiedenen Personen mit gleichem Namen)
+- Interoperabilität: Verschiedene Systeme und Datenbanken können Informationen leichter austauschen
+- Effizienz in der Recherche: Nutzer:innen können verknüpfte Datenbanken durchsuchen, ohne mehrfach zu suchen
+- Automatische Datenverarbeitung: Maschinen können Zusammenhänge besser erkennen und Informationen anreichern
+- Langfristige Archivierung: Normdaten bieten eine stabile Referenz, auch wenn sich andere Metadaten ändern
+
+>Vertiefende Informationen finden Sie hier: Kapitel 16 "Aufbau von Datensammlungen" (S. 223 - 233) in: Jannidis, F.; Kohle, H. & Rehbein, M. (Eds.): Digital Humanities. J.B. Metzler, 2017.
+
+
+### Creative Commons Lizenzen
+
+Lizenzen sind essenziell für offene Wissenschaft, Rechtssicherheit und Nachnutzbarkeit von Forschungsdaten. Forschende sollten frühzeitig eine geeignete Lizenz wählen, um Transparenz, Reproduzierbarkeit und Anerkennung zu fördern.
+
+Für Beiträge zur LOD-Cloud und das Erstellen von Open Educational Resources (OER) eignen sich [Creative Commons (CC)](https://creativecommons.org/share-your-work/) besonders gut: Ein standardisiertes Lizenzsystem, das Urheber:innen ermöglicht, ihre Werke rechtssicher zu veröffentlichen und festzulegen, unter welchen Bedingungen sie genutzt werden dürfen.
+CC-Lizenzen erleichtern die freie Verbreitung von Wissen, indem sie eine rechtlich klare Alternative zum "Alle Rechte vorbehalten"-Modell bieten.
+
+
+| **Lizenz**           | **Bedingungen** | **Symbol** |
+|----------------------|----------------|------------|
+| **CC BY** *(Namensnennung)* | Nutzung, Bearbeitung und Verbreitung erlaubt – unter Angabe der Urheberschaft | ![CC BY](https://licensebuttons.net/l/by/4.0/88x31.png) |
+| **CC BY-SA** *(Namensnennung – Weitergabe unter gleichen Bedingungen)* | Nutzung und Bearbeitung erlaubt, aber nur unter derselben Lizenz weiterverbreitbar | ![CC BY-SA](https://licensebuttons.net/l/by-sa/4.0/88x31.png) |
+| **CC BY-ND** *(Namensnennung – Keine Bearbeitung)* | Verbreitung erlaubt, aber keine Bearbeitung oder Veränderung | ![CC BY-ND](https://licensebuttons.net/l/by-nd/4.0/88x31.png) |
+| **CC BY-NC** *(Namensnennung – Nicht-kommerziell)* | Nutzung und Bearbeitung erlaubt, aber nicht für kommerzielle Zwecke | ![CC BY-NC](https://licensebuttons.net/l/by-nc/4.0/88x31.png) |
+| **CC BY-NC-SA** *(Namensnennung – Nicht-kommerziell – Weitergabe unter gleichen Bedingungen)* | Nicht-kommerzielle Nutzung und Bearbeitung erlaubt, aber nur mit gleicher Lizenz weitergebbar | ![CC BY-NC-SA](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png) |
+| **CC BY-NC-ND** *(Namensnennung – Nicht-kommerziell – Keine Bearbeitung)* | Verbreitung erlaubt, aber weder Bearbeitung noch kommerzielle Nutzung | ![CC BY-NC-ND](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png) |
 
 ## Umgang mit X-Technologien
 
@@ -325,11 +394,10 @@ Verschiedene Visualisierungsmöglichkeiten
 
 Deep Reading als Methode
 
-Digitale Annotation
-
-![Annotation](Images/laura-chouette-lf_glVopdIQ-unsplash.jpg "Laura Chouette auf Unsplash")
+![Annotation](Images/laura-chouette-lf_glVopdIQ-unsplash.jpg "Laura Chouette auf Unsplash") Digitale Annotation
 
 [TEI Publisher als "Deep Reading"-Tool](https://github.com/DH-Lehre/WiSe2023_Seminar-Heinrich-Bluechers-Nachlass/blob/main/main.md)
+[Erste Schritte mit dem TEI Publisher](https://liascript.github.io/course/?https://raw.githubusercontent.com/DH-Lehre/2023SoSe_Digitale-Editionswissenschaft/main/main.md#89)
 
 ## Archivieren 
 
