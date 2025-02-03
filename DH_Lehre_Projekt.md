@@ -133,6 +133,48 @@ Beispiele für LOD Wissensdatenbanken:
 - Europeana: Eine digitale Plattform für das kulturelle Erbe Europas, die Linked Open Data nutzt, um Museen, Bibliotheken und Archive miteinander zu verbinden.
 - Library of Congress: Verwendet Linked Open Data, um ihre Kataloge für maschinenlesbare Anfragen bereitzustellen
 
+### Das Wichtigste zu LOD - Ergebnisse aus Seminarsitzung
+
+>Dies sind die Sitzungsergebnisse zu LOD aus dem Seminar zu Philosophinnen im Exil (SoSe 24):
+
+Was ist 'Linked Open Data'?
+
+Während das WWW ein Netz aus Webseiten ist, soll mit LOD ein Netz aus Daten entstehen, die aus verschiedenen Quellen zusammen automatisch weiterverwendet werden können.
+
+Allgemeines:
+
+LOD bedeutet, dass die Daten frei zugänglich und unter Lizenzen verfügbar sind, die ihre Nutzung und Weiterverarbeitung erlauben.
+
+Ein zentrales Konzept von LOD ist die Eindeutigkeit: Jeder Eintrag, sei es eine Person, ein Ort oder ein Konzept, wird durch eine eindeutige Kennung, einen Uniform Resource Identifier (URI), identifiziert.
+
+Ein Tripel, bestehend aus Subjekt, Prädikat und Objekt, bildet die grundlegende Struktur von Linked Data und beschreibt Aussagen über Ressourcen.
+
+Uniform Resource Identifier (URI):
+
+Die URI ist eine zuverlässige Methode zur eindeutigen Identifizierung einer Entität (einer Webseite, eines Objekts, einer Beziehung usw.) auf eine Weise, die von jedem genutzt werden kann.
+
+Eine URL (Uniform Resource Locator) ist eine spezifische Art von URI, die nicht nur identifiziert, sondern auch den Ort und die Methode zum Abrufen der Ressource angibt.
+
+Das DNS (Domain Name System) sorgt dafür, dass Domänennamen (z.B. www.example.com) weltweit eindeutig sind. Dies unterstützt die Eindeutigkeit von URIs, da eine URI oft einen Domänennamen enthält, der eindeutig von einer Organisation kontrolliert wird.
+
+Ontologien:
+
+Eine Ontologie ist ein formales Modell, das Konzepte und deren Beziehungen in einem bestimmten Bereich definiert. Sie bietet eine gemeinsame Struktur und Terminologie für die Beschreibung von Daten.
+
+Taxonomien sind hierarchische Klassifikationen von Begriffen. Ontologien unterscheiden sich davon, da sie umfassendere Modelle sind, die sowohl Hierarchien als auch komplexere Beziehungen zwischen Begriffen darstellen.
+
+RDF und Datenformate:
+
+Serialisierung ist der Prozess, bei dem Datenstrukturen in ein speicher- oder übertragbares Format umgewandelt werden.
+
+Turtle (Terse RDF Triple Language) ist ein kompaktes und lesbares Format zur Serialisierung von RDF-Daten. Es verwendet Präfixe, um lange URI-Referenzen abzukürzen und die Lesbarkeit zu verbessern.
+
+Warum 'Linked Data'?
+
+"Wenn alle Datensätze offen veröffentlicht würden und das gleiche Format zur Strukturierung der Informationen verwendeten, wäre es möglich, alle Datensätze gleichzeitig zu durchsuchen. Die Analyse riesiger Datenmengen ist potenziell viel leistungsfähiger, als wenn jeder seine eigenen individuellen Datensätze im Web nutzt, die als Informationssilos bekannt sind."
+
+Dies wurde mit einem Beispielsgraphen veranschaulicht, einer aus DBpedia generierten Übersicht von Exilphiloph:innen.
+
 ## FAIR-Prinzipien
 
 Die FAIR-Prinzipien (Findable, Accessible, Interoperable, Reusable) dienen als Leitprinzipien dafür, dass Daten langfristig und unabhängig zugänglich, nachnutzbar und nachprüfbar bleiben.
@@ -352,7 +394,17 @@ https://conceptboard.com/de/
 
 ### SPARQL-Suchabfragen
 
-![Suche Symbolbild](Images/houcine-ncib-P5L8gICF0CI-unsplash.jpg "Housine Ncib auf Unsplash")
+![Suche Symbolbild](Images/houcine-ncib-P5L8gICF0CI-unsplash.jpg "Housine Ncib auf Unsplash") SPARQL-Anfragen können verwendet werden, um Informationen über Philosoph:innen oder Wissenschaftler:innen zu suchen, wie z.B. biografische Daten, Werke, Netzwerke und Zusammenhänge zwischen verschiedenen Philosoph:innen/ Wissenschaftler:innen und deren Einfluss. SPARQL ist eine Abfragesprache für RDF-Daten und wird verwendet, um Daten aus RDF-Datenbanken abzufragen, zu manipulieren und zu extrahieren. Eine SPARQL-Anfrage besteht aus verschiedenen Teilen, wie SELECT, WHERE, ORDER BY und FILTER.
+
+Als Einführung eignet sich: 
+Matthew Lincoln, “Using SPARQL to access Linked Open Data,” Programming Historian 4 (2015), https://doi.org/10.46430/phen0047 
+oder das folgende Video:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kJph4q0Im98?si=pW6w69zukq7jQEAO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+> [Hier](https://liascript.github.io/course/?https://raw.githubusercontent.com/DH-Lehre/2024SoSe_Seminar-Philosophinnen-im-Exil/main/main.md#42) können Sie einen Eindruck davon gewinnen, wie die Studierenden SPARQL-Anfragen für die Forschung zu Philosophinnen im Exil nutzen können.
+
+
 
 ### Arcinsys
 
@@ -376,6 +428,12 @@ Dieser [LiaScript Kurs](https://github.com/DH-Lehre/transkribus-workflow) dient 
 
 HINWEIS: Transkribus funktioniert nicht im Safari-Browser. Sollten Sie ein Apple-Endgerät verwenden, wechseln Sie bitte für die Arbeit mit Transkribus zu Chrome oder Firefox.
 
+### LOD selbst verfassen
+
+Turtle (Terse RDF Triple Language) ist eine Schreibweise zur Darstellung von RDF-Daten (Resource Description Framework). Es wird genutzt, um semantische Daten im Linked Data- und Semantic Web-Kontext darzustellen.
+
+>In dem Seminar zu Philosophinnen im Exil aus dem SoSe 24 nutzten die Studierenden Turtle, um LOD selbst zu verfassen: https://liascript.github.io/course/?https://raw.githubusercontent.com/DH-Lehre/2024SoSe_Seminar-Philosophinnen-im-Exil/main/main.md#78
+
 ## Auswerten 
 ### Named Entity Recognition (Stanford-NER)?
 ### N-Gram Viewer
@@ -391,13 +449,19 @@ Distant Reading als Methode
 
 [Checkliste Beschreibung](https://www.static.tu.berlin/fileadmin/www/40000027/Dokumente/Checkliste_Beschreibung_2023.pdf) der TU-Berlin
 
-### Textvisualisierung mit Storymaps 
-
-Verschiedene Visualisierungsmöglichkeiten
-
 ### GIS und digitale Karten
 
 ![earth](Images/nasa-1lfI7wkGWZ4-unsplash.jpg)
+
+#### Textvisualisierung mit Storymaps 
+
+>**Beispiele aus philosophischem Projektseminar (SoSe 24):**
+>
+>Story Map Hannah Arendt: https://arcg.is/9KOLj0
+>
+>Story Map Judith Shklar: https://arcg.is/155aq51
+>
+>(Von Elaine Ringeloth und Fleming Jensen)
 
 ### Kollaborative Annotation mit CATMA?
 
@@ -636,29 +700,37 @@ Auch in diesem Lehrprojekt sind in diesem Sinne Podcasts entstanden:
 
 ## Frauengeschichte(n) 
 
-### SoSe 25: Frauengeschichte(n) ...
+### Sammlung bisheriger Forschungsergebnisse
+
+### Seminare
+#### SoSe 25: Frauengeschichte(n) ...
 
 [LiaScript Kurs Frauengeschichte(n) ...](link folgt)
 
-### WiSe 24/25: Frauengeschichte(n) im 20. Jahrhundert
+#### WiSe 24/25: Frauengeschichte(n) im 20. Jahrhundert
 
 [LiaScript Kurs Frauengeschichte(n) im 20. Jahrhundert](https://github.com/DH-Lehre/2024WiSe_Exil-Wissenschaftlerinnen)
 
-### SoSe 24: Frauengeschichte(n) in der frühen Neuzeit
+#### SoSe 24: Frauengeschichte(n) in der frühen Neuzeit
 
 [LiaScript Kurs Frauengeschichte(n) in der frühen Neuzeit](https://github.com/DH-Lehre/2024SoSe_Seminar-Frauengeschichte-Fruehe-Neuzeit)
 
 ## Philosophinnen im Exil
-Übersicht
 
-### Seminar SoSe 25
+### Sammlung bisheriger Forschungsergebnisse
+
+#### ...
+
+### Seminare
+
+#### Seminar SoSe 25
 
 [LiaScript Kurs Philosophinnen im Exil SoSe 25](link folgt)
 
-### Seminar WiSe 24/25
+#### Seminar WiSe 24/25
 
 [LiaScript Kurs Philosophinnen im Exil WiSe 24/25](https://github.com/DH-Lehre/2024WiSe_Exil-Philosophinnen_II)
 
-### Seminar SoSe 24
+#### Seminar SoSe 24
 
 [LiaScript Kurs Philosophinnen im Exil SoSe 24](https://github.com/DH-Lehre/2024SoSe_Seminar-Philosophinnen-im-Exil)
