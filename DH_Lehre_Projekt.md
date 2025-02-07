@@ -13,12 +13,16 @@ narrator: US English Female
 
 # Projekttitel
 
+Moin. :-) Dieser Kurs dient als überblickgebende Führung durch die Forschungsmethoden, -tools und -ergebnisse eines interdisziplinären DH-Lehrprojekts der CAU Kiel, welches in Form von interaktiven digitalen Forschungswerkstätten umgesetzt wird. 
+
 ![Projektplakat](Images/Projektplakat_Version3.png)
+
+> **HINWEIS**: Die Links zu einzelnen Kursen leiten Sie jeweils zu dem entsprechenden GitHub Repository weiter. Um sich den Kurs formatiert in LiaScript anzeigen zu lassen, kopieren Sie die Markdown-URL [hier](https://liascript.github.io/) in das vorgesehene Feld.
 
 # Projektidee
 
 Die begrenzte Verfügbarkeit von Quellen, bestehende Geschlechterstereotype, Vorurteile und fehlende "Role Models" sind nur einige der Herausforderungen, denen sich die Frauen- und Geschlechtergeschichte seit jeher stellen muss. In der Philosophie gibt es wiederum wenig(er) Aufmerksamkeit für Autorinnen:
-Nach wie vor prägen Texte von Männern die Wahrnehmung des Faches, obwohl Frauen seit der Öffnung der Universitaten Anfang des 20. Jahrhunderts am akademischen Diskurs teilnehmen konnten und ein großer Textkorpus von Philosophinnen vorliegt. [Hier ein Beitrag dazu, wie Frauen das Schicksalsjahr 1939 durchlitten](https://www.morgenpost.de/kultur/article236611641/Wie-Frauen-das-Schicksalsjahr-1939-durchlitten.ht) Auch digitale Medien beeinflussen die Art und Weise, wie wir Geschichte erzählen, erleben, verbreiten und erarbeiten. Digitale Plattformen, Blogs, Foren und Social-Media-Kampagnen können ein neues Bewusstsein für geschlechtsspezifische Perspektiven schaffen und dazu beitragen, Veränderungen von Geschlechterrollen wahrzunehmen oder anzustoßen.
+Nach wie vor prägen Texte von Männern die Wahrnehmung des Faches, obwohl Frauen seit der Öffnung der Universitaten Anfang des 20. Jahrhunderts am akademischen Diskurs teilnehmen konnten und ein großer Textkorpus von Philosophinnen vorliegt. Auch digitale Medien beeinflussen die Art und Weise, wie wir Geschichte erzählen, erleben, verbreiten und erarbeiten. Digitale Plattformen, Blogs, Foren und Social-Media-Kampagnen können ein neues Bewusstsein für geschlechtsspezifische Perspektiven schaffen und dazu beitragen, Veränderungen von Geschlechterrollen wahrzunehmen oder anzustoßen.
 
 Studierenden wird mittels dieses Lehrprojekts die Möglichkeit geboten, sich forschungs- und quellenorientiert selbst ein Bild zu machen: 
 Im Format von pro Semester je zwei Forschungswerkstätten wird dazu systematisch an Frauenbiographien und dem Werk von Frauen gearbeitet. 
@@ -28,7 +32,7 @@ Dabei kommen Methoden der Digital Humanities zum Einsatz, auch mit dem Ziel die 
 Denn auch noch in der Zeitgeschichte bleiben die Biografien vieler Frauen, bspw. von Wissenschaftlerinnen, vergleichsweise unsichtbar. Verantwortlich dafür war und ist die mangelnde Teilhabe vor Frauen an Wissenschaft und der wissenschaftlichen Geschichtsschreibung im Laufe des 19. Jahrhunderts, da ihnen schlichtweg der Zugang zu den Universitäten verwehrt blieb. Dies hatte zur Folge, dass die Themen von männlichen Handlungsräumen und Imaginationen beeinflusst wurden. 
 Die Studieren gewinnen im Rahmen der Veranstaltungen einen Überblick über marginalisierte (d.h. im akademischen Diskurs weitestgehend unberücksichtigte) Forscherinnen. Es werden die wenigen Spuren in den Blick genommen, die trotzdem von Frauen hinterlassen wurden: Im Universitats- und Landesarchiv in Schleswig befinden sich Quellen, die bislang in Hinblick auf Frauen- und Geschlechterforschung noch nicht ausgewertet wurden.
 
-![Flucht](Images/Bundesarchiv_Bild_146-1985-021-09,_Fluechtlinge.jpg "Bundesarchiv, Bild 146-1985-021-09 / Unknown author / CC-BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/de/deed.en") Die Seminare, die in der Philosophie angeboten werden, nehmen das Leben und Werk von Philosophinnen in den Blick, die aus Nazi-Deutschland fliehen mussten, und widmen sich dabei insbesondere dem Werk einer Auswahl von exilierten Philosophinnen, die bisher im akademischen Diskurs wenig Berücksichtigung gefunden haben. 
+![Flucht](Images/Bundesarchiv_Bild_146-1985-021-09,_Fluechtlinge.jpg "Bundesarchiv, Bild 146-1985-021-09 / Unknown author / CC-BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/de/deed.en") Die Seminare, die in der Philosophie angeboten werden, nehmen das Leben und Werk von Philosophinnen in den Blick, die aus Nazi-Deutschland fliehen mussten, und widmen sich dabei insbesondere dem Werk einer Auswahl von exilierten Philosophinnen, die bisher im akademischen Diskurs wenig Berücksichtigung gefunden haben. Hier ein Beitrag dazu, wie Frauen das Schicksalsjahr 1939 durchlitten: https://www.morgenpost.de/kultur/article236611641/Wie-Frauen-das-Schicksalsjahr-1939-durchlitten.ht.
 
 
 In den beiden forschungsorientierten Lehrveranstaltungen sammeln, strukturieren, interpretieren und veröffentlichen Studierende Informationen über Frauen, um Einblicke in soziale, familiäre und wissenschafliche Netzwerke von Frauen im 20. Jahrhundert zu erhalten. Umgesetzt werden die Lehrveranstaltungen im Format einer **digitalen Forschungswerkstatt**: 
@@ -51,7 +55,7 @@ Durch das gemeinsame Lehrprojekt und den engen Austausch wird außerdem angestre
 |------------------|--------------------------------------------------|
 | **Planen**       | - Definition von Forschungsfragen und Datenmanagementstrategien <br> - Wahl geeigneter Standards (z. B. TEI für Texte) <br> - Klärung rechtlicher Fragen (Urheberrecht, Lizenzierung) |
 | **Sammeln**      | - Suche nach und Bestellen von Archivalien <br> - Datenbanken gezielt durchsuchen <br> - Standardisierte Metadatenerfassung |
-| **Speichern**    | - Digitale Erfassung und Speicherung von Texten, Bildern, Audio oder 3D-Scans <br> - Nutzung von OCR, Digitalisierungs- und Erhebungstools <br> - Auswahl geeigneter Speicherorte und Dateiformate <br> - Nutzung institutioneller Repositorien oder Cloud-Lösungen <br> - Sicherstellung von Backup-Strategien und Datenintegrität |
+| **Speichern**    | - Digitale Erfassung und Speicherung von Texten, Bildern oder Audio <br> - Nutzung von optischer Zeichenerkennung (OCR), Digitalisierungs- und Erhebungstools <br> - Auswahl geeigneter Speicherorte und Dateiformate <br> - Nutzung institutioneller Repositorien oder Cloud-Lösungen <br> - Sicherstellung von Backup-Strategien und Datenintegrität |
 | **Auswerten**    | - Anwendung digitaler Methoden wie Topic Modeling, Netzwerkanalyse, Sentiment Analysis <br> - Einsatz von Software wie Voyant Tools, Gephi oder Python <br> - Sicherstellung der Reproduzierbarkeit durch Dokumentation |
 | **Beschreiben**  | - Annotieren <br> - Anreicherung der Daten mit strukturierten Metadaten <br> - Nutzung standardisierter Vokabulare und Ontologien <br> - Dokumentation der Datenherkunft und Verarbeitungsschritte |
 | **Archivieren**  | - Speicherung in Langzeitarchiven <br> - Sicherstellung der langfristigen Lesbarkeit <br> - Vergabe von Persistent Identifiers (z. B. DOI) |
@@ -95,11 +99,11 @@ Ergebnisse von Text-Mining, Sentiment-Analysen oder Topic Modeling, bei denen Al
 
 ![Datennetz](Images/alina-grubnyak-ZiQkhI7417A-unsplash.jpg "Alina Grubnyak auf Unsplash")
 
-Linked Open Data (LOD) ist ein Konzept und eine Technologie, die darauf abzielt, Daten so zu veröffentlichen, dass sie im Internet miteinander verknüpft, maschinenlesbar und offen zugänglich sind. Es basiert auf den Prinzipien des Semantischen Webs und fördert die Nutzung von standardisierten Technologien, um die Interoperabilität von Daten über verschiedene Domänen hinweg zu ermöglichen.
+Linked Open Data (LOD) ist ein Konzept und eine Technologie, die darauf abzielt, Daten so zu veröffentlichen, dass sie im Internet miteinander **verknüpft**, **maschinenlesbar** und **offen zugänglich** sind. Es basiert auf den Prinzipien des Semantischen Webs und fördert die Nutzung von standardisierten Technologien, um die Interoperabilität von Daten über verschiedene Domänen hinweg zu ermöglichen.
 
 **Vorteile von Linked Open Data**
 
-- Interoperabilität: Unterschiedliche Datenquellen können integriert und gemeinsam genutzt werden. Zum Beispiel Historische Daten aus Archiven, die mit Daten aus Bibliotheken und Museen verknüpft werden, um ein umfassendes Bild von Ereignissen oder Personen zu schaffen.
+- Interoperabilität: Unterschiedliche Datenquellen können integriert und gemeinsam genutzt werden. Zum Beispiel historische Daten aus Archiven, die mit Daten aus Bibliotheken und Museen verknüpft werden, um ein umfassendes Bild von Ereignissen oder Personen zu schaffen.
 - Maschinenlesbarkeit: Daten können von Algorithmen verarbeitet und analysiert werden, was Automatisierung und neue Forschung ermöglicht.
 - Wissenserweiterung durch Verknüpfungen: Verlinkungen erlauben es, Beziehungen und Muster zwischen Daten sichtbar zu machen, die vorher unzugänglich waren.
 - Offenheit und Nachnutzung: Durch offene Lizenzen können Daten frei genutzt, kombiniert und für neue Anwendungen aufbereitet werden.
@@ -114,19 +118,11 @@ Linked Open Data (LOD) ist ein Konzept und eine Technologie, die darauf abzielt,
 
 **Wie funktioniert Linked Open Data?**
 
-- Datenmodellierung mit RDF: Daten werden als "Triple" dargestellt: Subjekt - Prädikat - Objekt.
+- Datenmodellierung mit **RDF**: Daten werden als "Triple" dargestellt: Subjekt - Prädikat - Objekt.
+- **Ontologien** und **Vokabulare**: Um Daten besser zu strukturieren und zu standardisieren, verwendet LOD Ontologien (z. B. FOAF, Dublin Core). Diese definieren, wie Konzepte und ihre Beziehungen beschrieben werden.
+- **Verlinkung** mit anderen Datenquellen: Die Daten sind nicht isoliert, sondern mit anderen Datensätzen verknüpft.
 
-    Beispiel:
-    ```html
-    <http://dbpedia.org/resource/Berlin> <http://xmlns.com/foaf/0.1/name> "Berlin".
-    ```
-    Hier wird beschrieben, dass die Ressource "Berlin" einen Namen hat, der ebenfalls "Berlin" lautet.
-
-- Ontologien und Vokabulare: Um Daten besser zu strukturieren und zu standardisieren, verwendet LOD Ontologien (z. B. FOAF, Dublin Core). Diese definieren, wie Konzepte und ihre Beziehungen beschrieben werden.
-- Verlinkung mit anderen Datenquellen: Die Daten sind nicht isoliert, sondern mit anderen Datensätzen verknüpft, etwa zwischen DBpedia, Wikidata und spezialisierten Datenbanken (z. B. Europeana für kulturelles Erbe).
-
-
-Beispiele für LOD Wissensdatenbanken:
+**Beispiele für LOD Wissensdatenbanken:**
 
 - DBpedia: Eine strukturierte Datenbank, die Informationen aus Wikipedia extrahiert und miteinander verknüpft. Sie ermöglicht Anfragen in maschinenlesbarer Form.
 - Wikidata: Eine zentrale Wissensdatenbank, die strukturierte und verknüpfte Daten über verschiedene Themen bereitstellt.
@@ -137,11 +133,11 @@ Beispiele für LOD Wissensdatenbanken:
 
 >Dies sind die Sitzungsergebnisse zu LOD aus dem Seminar zu Philosophinnen im Exil (SoSe 24):
 
-Was ist 'Linked Open Data'?
+**Was ist 'Linked Open Data'?**
 
 Während das WWW ein Netz aus Webseiten ist, soll mit LOD ein Netz aus Daten entstehen, die aus verschiedenen Quellen zusammen automatisch weiterverwendet werden können.
 
-Allgemeines:
+**Allgemeines:**
 
 LOD bedeutet, dass die Daten frei zugänglich und unter Lizenzen verfügbar sind, die ihre Nutzung und Weiterverarbeitung erlauben.
 
@@ -149,7 +145,7 @@ Ein zentrales Konzept von LOD ist die Eindeutigkeit: Jeder Eintrag, sei es eine 
 
 Ein Tripel, bestehend aus Subjekt, Prädikat und Objekt, bildet die grundlegende Struktur von Linked Data und beschreibt Aussagen über Ressourcen.
 
-Uniform Resource Identifier (URI):
+**Uniform Resource Identifier (URI):**
 
 Die URI ist eine zuverlässige Methode zur eindeutigen Identifizierung einer Entität (einer Webseite, eines Objekts, einer Beziehung usw.) auf eine Weise, die von jedem genutzt werden kann.
 
@@ -157,19 +153,19 @@ Eine URL (Uniform Resource Locator) ist eine spezifische Art von URI, die nicht 
 
 Das DNS (Domain Name System) sorgt dafür, dass Domänennamen (z.B. www.example.com) weltweit eindeutig sind. Dies unterstützt die Eindeutigkeit von URIs, da eine URI oft einen Domänennamen enthält, der eindeutig von einer Organisation kontrolliert wird.
 
-Ontologien:
+**Ontologien:**
 
 Eine Ontologie ist ein formales Modell, das Konzepte und deren Beziehungen in einem bestimmten Bereich definiert. Sie bietet eine gemeinsame Struktur und Terminologie für die Beschreibung von Daten.
 
 Taxonomien sind hierarchische Klassifikationen von Begriffen. Ontologien unterscheiden sich davon, da sie umfassendere Modelle sind, die sowohl Hierarchien als auch komplexere Beziehungen zwischen Begriffen darstellen.
 
-RDF und Datenformate:
+**RDF und Datenformate:**
 
 Serialisierung ist der Prozess, bei dem Datenstrukturen in ein speicher- oder übertragbares Format umgewandelt werden.
 
 Turtle (Terse RDF Triple Language) ist ein kompaktes und lesbares Format zur Serialisierung von RDF-Daten. Es verwendet Präfixe, um lange URI-Referenzen abzukürzen und die Lesbarkeit zu verbessern.
 
-Warum 'Linked Data'?
+**Warum 'Linked Data'?**
 
 "Wenn alle Datensätze offen veröffentlicht würden und das gleiche Format zur Strukturierung der Informationen verwendeten, wäre es möglich, alle Datensätze gleichzeitig zu durchsuchen. Die Analyse riesiger Datenmengen ist potenziell viel leistungsfähiger, als wenn jeder seine eigenen individuellen Datensätze im Web nutzt, die als Informationssilos bekannt sind."
 
@@ -181,7 +177,9 @@ Die FAIR-Prinzipien (Findable, Accessible, Interoperable, Reusable) dienen als L
 Der Hauptunterschied zwischen den LOD- und den FAIR-Prinzipien liegt in der Accessibility, da im Vergleich zu den Linked Open Daten nicht alle Forschungsergebnisse zur Verfügung gestellt werden. Forschungsdaten (FDM) sollten generell so offen wie möglich sein.
 Während das Hauptziel der FAIR-Prinzipien in einer Erhöhung der Nachnutzbarkeit von Daten liegt, stellt der Fokus der LOD-Prinzipien die Zugänglichkeit der Daten dar.
 
-Ein entsprechendes LiaScript-Modul von Britta Petersen finden Sie [hier](https://liascript.github.io/course/?https://raw.githubusercontent.com/RDM4CAU/lehre/main/Philo_DH-Sem_2024/FDM.md#1).
+>Ein entsprechendes LiaScript-Modul von Britta Petersen finden Sie [hier](https://liascript.github.io/course/?https://raw.githubusercontent.com/RDM4CAU/lehre/main/Philo_DH-Sem_2024/FDM.md#1).
+
+![FAIR Data](Images/Fair_Data_Principles_-_Open_Science_Training_Handbook_16.png "Von Wikimedia Commons, CC0")
 
 ## Digitale Editionen
 
@@ -196,9 +194,9 @@ Literaturempfehlungen:
 
 ## Metadatenmanagement 
 
-Metadaten sind „Daten über Daten“ – sie liefern beschreibende, technische und administrative Informationen zu Forschungsdaten.
+>Metadaten sind „Daten über Daten“ – sie liefern beschreibende, technische und administrative Informationen zu Forschungsdaten.
 
-Typische Metadatenkategorien sind:
+**Typische Metadatenkategorien sind:**
 
 - Deskriptive Metadaten: Titel, Autor(en), Schlüsselwörter, Zusammenfassung
 - Strukturelle Metadaten: Beziehungen zwischen Datensätzen oder Versionen
@@ -206,13 +204,13 @@ Typische Metadatenkategorien sind:
 - Administrative Metadaten: Lizenz, Zugriffsrechte, Urheberrecht, Aufbewahrungsfristen
 - Provenienz-Metadaten: Entstehungsgeschichte, Datenverarbeitungsschritte, Versionierung
 
-Warum sind Metadaten für das FDM wichtig?
+**Warum sind Metadaten für das FDM wichtig?**
 
 - *Auffindbarkeit und Nachnutzbarkeit*: Metadaten machen Forschungsdaten auffindbar, z. B. durch Kataloge oder Suchmaschinen (FAIR-Prinzipien: Findable). Wissenschaftler:innen können durch standardisierte Metadaten relevante Datensätze leichter finden.
 - *Kontext und Interpretierbarkeit*: Metadaten helfen, den Kontext der Daten zu verstehen: Wer hat die Daten erhoben? Wie wurden sie generiert? Welche Methoden wurden verwendet? Ohne Metadaten sind Daten oft unbrauchbar, da wichtige Informationen über ihre Entstehung fehlen.
-- *Interoperabilität und Austauschbarkeit*: Standardisierte Metadatenformate (z. B. Dublin Core, DataCite, ISO 19115) ermöglichen den Datenabgleich zwischen Systemen, Institutionen und Disziplinen. Dies erleichtert die Zusammenarbeit und ermöglicht das automatisierte Verarbeiten von Daten.
+- *Interoperabilität und Austauschbarkeit*: Standardisierte Metadatenformate ermöglichen den Datenabgleich zwischen Systemen, Institutionen und Disziplinen. Dies erleichtert die Zusammenarbeit und ermöglicht das automatisierte Verarbeiten von Daten.
 - *Langfristige Archivierung und Reproduzierbarkeit*: Forschungsdaten müssen oft über Jahre oder Jahrzehnte aufbewahrt werden. Metadaten helfen, diese lesbar und interpretierbar zu halten, selbst wenn Technologien oder Formate sich ändern. Sie sind somit essenziell für die Reproduzierbarkeit wissenschaftlicher Ergebnisse.
-- *Zitierfähigkeit und wissenschaftliche Anerkennung*: Mit Metadaten können Datensätze als eigenständige Forschungsleistung veröffentlicht und zitiert werden (z. B. durch DOIs von DataCite). Wissenschaftler:innen erhalten dadurch Anerkennung für ihre Daten und können ihre Forschung besser nachweisen.
+- *Zitierfähigkeit und wissenschaftliche Anerkennung*: Mit Metadaten können Datensätze als eigenständige Forschungsleistung veröffentlicht und zitiert werden, z.B. als Digital Object Identifier (DOI). Wissenschaftler:innen erhalten dadurch Anerkennung für ihre Daten und können ihre Forschung besser nachweisen.
 
 ### Metadatenstandards
 
@@ -251,11 +249,11 @@ Ein Beispiel hierfür findet sich [hier](https://liascript.github.io/course/?htt
 
 **Nutzen von Normdaten und Linking:**
 
-- Eindeutige Identifikation: Verhindert Verwechslungen (z. B. zwischen verschiedenen Personen mit gleichem Namen)
-- Interoperabilität: Verschiedene Systeme und Datenbanken können Informationen leichter austauschen
-- Effizienz in der Recherche: Nutzer:innen können verknüpfte Datenbanken durchsuchen, ohne mehrfach zu suchen
-- Automatische Datenverarbeitung: Maschinen können Zusammenhänge besser erkennen und Informationen anreichern
-- Langfristige Archivierung: Normdaten bieten eine stabile Referenz, auch wenn sich andere Metadaten ändern
+- *Eindeutige Identifikation*: Verhindert Verwechslungen (z. B. zwischen verschiedenen Personen mit gleichem Namen)
+- *Interoperabilität*: Verschiedene Systeme und Datenbanken können Informationen leichter austauschen
+- *Effizienz in der Recherche*: Nutzer:innen können verknüpfte Datenbanken durchsuchen, ohne mehrfach zu suchen
+- *Automatische Datenverarbeitung*: Maschinen können Zusammenhänge besser erkennen und Informationen anreichern
+- *Langfristige Archivierung*: Normdaten bieten eine stabile Referenz, auch wenn sich andere Metadaten ändern
 
 >Vertiefende Informationen finden Sie hier: Kapitel 16 "Aufbau von Datensammlungen" (S. 223 - 233) in: Jannidis, F.; Kohle, H. & Rehbein, M. (Eds.): Digital Humanities. J.B. Metzler, 2017.
 
@@ -270,6 +268,7 @@ CC-Lizenzen erleichtern die freie Verbreitung von Wissen, indem sie eine rechtli
 
 | **Lizenz**           | **Bedingungen** | **Symbol** |
 |----------------------|----------------|------------|
+| **CC 0** *(Public Domain)* | Keine Rechte vorbehalten – uneingeschränkte Nutzung möglich | ![CC 0](https://licensebuttons.net/l/zero/1.0/88x31.png) |
 | **CC BY** *(Namensnennung)* | Nutzung, Bearbeitung und Verbreitung erlaubt – unter Angabe der Urheberschaft | ![CC BY](https://licensebuttons.net/l/by/4.0/88x31.png) |
 | **CC BY-SA** *(Namensnennung – Weitergabe unter gleichen Bedingungen)* | Nutzung und Bearbeitung erlaubt, aber nur unter derselben Lizenz weiterverbreitbar | ![CC BY-SA](https://licensebuttons.net/l/by-sa/4.0/88x31.png) |
 | **CC BY-ND** *(Namensnennung – Keine Bearbeitung)* | Verbreitung erlaubt, aber keine Bearbeitung oder Veränderung | ![CC BY-ND](https://licensebuttons.net/l/by-nd/4.0/88x31.png) |
@@ -342,6 +341,19 @@ In welchen Verhältnissen stehen die Elemente zueinander?
 
 # Methoden und Tools der digitalen Projektarbeit
 
+![Forschungsdatenzyklus](Images/csm_FDZyklus_de_2022_f6d41ddace.png "© SZF TU Berlin, CC BY 4.0")
+
+| **Phase des FDM**      | **Tools & Methoden** |
+|------------------------|----------------------|
+| **Planen**            | Conceptboard |
+| **Sammeln**          | SPARQL-Suchabfragen, Arcinsys |
+| **Speichern**        | ScanTent und Transkribus, Turtle |
+| **Auswerten**        |  |
+| **Beschreiben**      |  |
+| **Archivieren**      |  |
+| **Teilen**           |  |
+| **Nachnutzen**       |  |
+
 ## Planen 
 
 ![Planung](Images/kelly-sikkema-jr61kHaWKek-unsplash.jpg "Kelly Sikkema auf Unsplash")
@@ -404,8 +416,6 @@ oder das folgende Video:
 
 > [Hier](https://liascript.github.io/course/?https://raw.githubusercontent.com/DH-Lehre/2024SoSe_Seminar-Philosophinnen-im-Exil/main/main.md#42) können Sie einen Eindruck davon gewinnen, wie die Studierenden SPARQL-Anfragen für die Forschung zu Philosophinnen im Exil nutzen können.
 
-
-
 ### Arcinsys
 
 Zur Recherche von historischen Archivalien nutzen wir in unseren Projektseminaren unter anderem [Arcinsys](https://arcinsys.schleswig-holstein.de/arcinsys/start.action): 
@@ -420,11 +430,9 @@ Ein webbasiertes Archivsystem, das entwickelt wurde, um den Zugang zu Archivmate
 
 ![Speichern Symbolbild](Images/glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg "Glenn Carstens Peters auf Unsplash") [Checkliste Speicherung](https://www.static.tu.berlin/fileadmin/www/40000027/Dokumente/Checkliste_Speicherung_2023.pdf) der TU-Berlin
 
-Textdigitalisierung..
-
 ### Scan Tent und Transkribus
 
-Dieser [LiaScript Kurs](https://github.com/DH-Lehre/transkribus-workflow) dient als Einführung in die Nutzung von Transkribus - einer webbasierten Software zur automatischen Texterkennung und Transkription von handschriftlichen und gedruckten Dokumenten. Sie erhalten einen kurzen Überblick über die Nutzungsmöglichkeiten und grundlegenden Funktionen, sodass Sie anschließend mit Ihrem individuellen Workflow starten können.
+![Transkribus](Images/gemeinsamer_workflow_transkribus.png "https://mittelalter.hypotheses.org/files/2019/10/Abb._3.png (Foto: Pia Eckhart; Lizenz: CC BY-SA 3.0)") Dieser [LiaScript Kurs](https://github.com/DH-Lehre/transkribus-workflow) dient als Einführung in die Nutzung von Transkribus - einer webbasierten Software zur automatischen Texterkennung und Transkription von handschriftlichen und gedruckten Dokumenten. Sie erhalten einen kurzen Überblick über die Nutzungsmöglichkeiten und grundlegenden Funktionen, sodass Sie anschließend mit Ihrem individuellen Workflow starten können.
 
 HINWEIS: Transkribus funktioniert nicht im Safari-Browser. Sollten Sie ein Apple-Endgerät verwenden, wechseln Sie bitte für die Arbeit mit Transkribus zu Chrome oder Firefox.
 
