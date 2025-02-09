@@ -1557,6 +1557,8 @@ Exil: London, New York
 
 ✶ 1905 - ✝ 1991
 
+Exil: England 
+
 - jüdische-Philosophin und Altphilologin
 - Klassische Philologie in München/Heidelberg
 - 1932 Promotion
@@ -1570,9 +1572,27 @@ Exil: London, New York
 - Editionsprojekt Corpus Platonicum Medii Aevi
 - Briefwechsel nach Berufung Klibanskys
 
+**Literatur zur Person (Auswahl):**
+
+- Klibansky, Raymond: Lotte Labowsky, in The Times vom 2. August 1991.
+- Weber, Regina: Lotte Labowsky - Schülerin Aby Warburgs, Kollegin Raymond Klibanskys. Eine Wissenschaftlerin zwischen Fremd- und Selbstbestimmung im englischen Exil. Hamburger  Beiträge zur Wissenschaftsgeschichte. 2012. 
+
+**Publikationen (Auswahl):**
+
+- Die Ethik des Panaitios. Untersuchungen zur Geschichte des Decorum in Cicero und Horaz, Leipzig 1934 (Dissertation).
+- Rezension zu Karl Heinrich Becker: Das Erbe der Antike im Orient und Okzident, Leipzig 1931.
+- Rezension zu Sigmund Zempicki: Pindar im literarischen Urteil des 17. und 18. Jahrhunderts.
+- Bessarion's Library and the Biblioteca Marciana. 1979.
+
+**Siehe auch:**
+
+- Hamburger Frauenbiografien ([L. Labowsky](https://www.hamburg.de/clp/zwangsarbeiterinnen-valvofrauen/clp1/hamburgde/onepage.php?BIOID=4249&strasse=62&qR=L))
+
 #### Hilde Lion
 
 ✶ 1893 - ✝ 1970 
+
+Exil: London
 
 **Recherche**
 
@@ -1601,6 +1621,13 @@ Exil: London, New York
 
 - Hilde Lion, die keine jüdische Identität hatte, emigrierte im November 1933 nach London, vorerst zu einem Studienaufenthalt auf Einladung und mit einem Stipendium des Internationalen Akademikerbundes.
 - Sie Verstarb am 08.04.1970 in Hindhead/Surrey
+- 1934 Gründung der Stoatley Rough School in Haslemere/ Surrey, eine Internatsschule Flüchtlingskinder.
+
+**Literatur zur Person (Auswahl):**
+
+- Simmel- Joachim, Monika: Hilde Lion zum 100. Geburtstag ( 1 893— 1970), in: Ariadne. Almanach des Archivs der deutschen Frauenbewegung 23 (Mai 1993), S. 34-39.
+- Simmel- Joachim, Monika: „Unser Wesen wird unsere Tat sein“: Hilde Lion (1893-1970), in: Klatt, Ingaburgh (Hg.): „Wir wollen lieber fliegen als kriechen“. Historische Frauenportraits, Lübeck 1997, S. 137-160.
+- Stoehr, Irene: Eine hohe Schule weiblicher Kulturleistung: Die Deutsche Akademie für soziale und pädagogische Frauenarbeit (1925-1933), in: Zwaka, Petra (Hg.): „Ich bin meine eigene Frauenbewegung“. Frauen-Ansichten aus der Geschichte einer Großstadt, Berlin 1991, S. 59-64.
 
 **Publikationen (Auswahl):**
 
@@ -1609,6 +1636,16 @@ Exil: London, New York
 - Lion, Hilde: Zur Soziologie der Frauenbewegung. Die sozialistische und die katholische Frauenbewegung, Berlin 1926.
 - Lion, Hilde: Die Allgemeine Frauenzeitschrift in Deutschland, in: Wolff, Emmy (Hg): Frauengenerationen in Bildern, Berlin 1928, S. 108–115.
 - Lion, Hilde: Erwerbslos, aber nicht arbeitslos, in: Deutsche Lehrerinnenzeitung, 49 (1932), S. 7-9.
+
+**Siehe auch:**
+
+- Digitales Deutsches Frauenarchiv ([H. Lion](https://www.digitales-deutsches-frauenarchiv.de/akteurinnen/hilde-lion))
+- Meta-Katalog ([H. Lion](https://meta-katalog.eu/Search/Results?lookfor=Hilde%20Lion))
+- Deutsche Nationalbibliothek ([H. Lion](https://portal.dnb.de/opac.htm?method=simpleSearch&cqlMode=true&query=nid%3D128248505))
+- Sunday News Beitrag ([hier](https://sunday-news.info/hilde-lion/))
+- taz-Beitrag ([hier](https://taz.de/Eine-Praktikerin-aus-der-Generation-der-Erbinnen/!1545122/))
+- Freie Universität Berlin Beitrag ([hier](https://blogs.fu-berlin.de/lootedculturalassetsblog/2020/04/27/dr-hilde-lion-1893-1970/))
+- Hamburger Frauenbiografien ([H. Lion](https://www.hamburg.de/clp/zwangsarbeiterinnen-valvofrauen/clp1/hamburgde/onepage.php?BIOID=4077&qW=Jugend&qR=L))
 
 #### Seweryna Łuszczewska-Romahnowa
 
@@ -1655,6 +1692,38 @@ Exil: London, USA
 
 Rose Rand ist eine Österreichische Philosophin und Logikerin. Sie war Mitglied und Protokollantin des Wiener Kreises.
 
+**Exil:**
+
+- 1939 emigrierte Rand als jüdische Staatenlose nach England, zunächst nach London. 
+- Dort arbeitete sie als Krankenschwester und versuchte, ihre philosophische Arbeit wiederaufzunehmen. In der Folge wurde sie als distinguished foreigner an der Faculty of Moral Science in Cambridge zugelassen und besuchte dort unter anderem Vorlesungen von Ludwig Wittgenstein.
+- 1943 verlor sie ihren Status und musste bis 1948 in einer Metallfabrik arbeiten.
+- Ab 1947 hielt sie Abendkurse über Psychologie und Deutsch am Luton Technical College und am Tottenham Technical College.
+- 1954 zog Rand in die USA. Zwischen 1955 und 1959 unterrichtete sie Mathematik, antike Philosophie und Logik und war wissenschaftliche Mitarbeiterin an der Chicago University, Indiana University und Notre Dame University.
+
+**Literatur zur Person:**
+
+- Hamacher-Hermes, Adelheid, „Rose Rand: a Woman in Logic“, in: Friedrich Stadler (Hrsg.), The Vienna Circle and Logical Empiricism. Re-Evaluation and Future Perspectives. Dordrecht
+Boston-London: Kluwer 2003, pp. 365–380. 
+- Iven, Mathias, Rand und Wittgenstein. Versuch einer Annäherung (Wittgenstein-Studien 9), Frankfurt/Berlin: Peter Lang 2004.
+- Lorini, Giuseppe, "Deontica in Rose Rand", in: Rivista internazionale di filosofia del diritto 74/1997, 197–251.
+- Stadler, Friedrich: Studien zum Wiener Kreis. Ursprung, Entwicklung und Wirkung des Logischen Empirismus im Kontext. Suhrkamp, Frankfurt am Main 1997
+
+**Publikationen (Auswahl):**
+
+- Die Logik der verschiedenen Arten von Sätzen, (Przeglad Filozoficzny 39/4, Warschau 1936).
+- T. Kotarbińskis Philosophie auf Grund seines Hauptwerkes: ›Elemente der Erkenntnistheorie, der Logik und der Methodologie der Wissenschaften‹, in: Erkenntnis 7, 1938.
+- Logik der Forderungssätze, in: Internationale Zeitschrift für Theorie des Rechts. Neue Folge 1, 1939.
+- Preface and Translation of Prolegomena to Three-Valued Logic by Tadeusz Kotarbiński, in: The Polish Review 13/1968., S. 3–22.
+- About the Notions of ›real‹ and ›unreal‹ on the Basis of Questioning Mental Disorders, in: Acta Psychologica (eingereicht).
+
+**Siehe auch:**
+
+- Uni Wien Beitrag ([hier](https://geschichte.univie.ac.at/de/personen/rose-rand))
+- Wiki-Eintrag ([R. Rand](https://de.wikipedia.org/wiki/Rose_Rand))
+- University of Pittsburgh - Digital Collections ([hier](https://digital.library.pitt.edu/collection/rose-rand-papers))
+- History of Women Philosophers and Scientists ([hier](https://historyofwomenphilosophers.org/project/directory-of-women-philosophers/rose-rand/))
+- Der Standard - Beitrag ([hier](https://www.derstandard.de/consent/tcf/story/2000118936385/rose-rand-erbitterter-kampf-um-akademische-anerkennung))
+
 #### Maria Reichenbach
 
 ✶ 1909 - ✝ 2013
@@ -1672,9 +1741,30 @@ Exil: Istanbul und Los Angeles
 - Als Herausgeberin Tätig und vertritt Hans Reichenbach auf Kongressen nach seinem Tod
 - 2013 - Maria Reichenbach verstirbt in Los Angeles
 
-Literatur:
+**Exil:**
+
+- Maria Moll erwarb ihren Doktortitel der Philosophie 1933 an der Albert-Ludwigs Universität Freiburg, noch bevor sie nach der Machtübernahme der Nationalsozialisten für neun Monate ins italienische Exil ging.
+- Nach einem kurzen Stopp in Berlin lernte sie 1934 eine deutsch-jüdische Familie kennen, mit der sie nach Istanbul mitzog.
+- Dort angekommen machte sie schnell Bekanntschaft mit den ebenfalls aus Deutschland emigrierten Akademiker*in nen, darunter dem Wissenschaftsphilosophen Hans Reichenbach sowie des sen erster Frau Elisabeth und ihren zwei Kindern.
+- 1939 folgte Hans Reichen bach dem Ruf der UCLA nach Kalifornien, wo er seinen Lehrstuhl als Professor der Philosophie bis an sein Lebensende 1953 innehielt. Maria Moll hei ratete noch in Istanbul und die junge Familie, mit ihrem gemeinsamen Sohn Frank, wanderte ebenfalls 1939 nach Los Angeles aus, wo Maria Hans Reichenbachs Kurse an der UCLA besuchte und schließlich an der UCLA habili tierte.
+- 1946 heirateten Hans und Maria, nachdem sie sich zuvor von ihren Eheleuten scheiden ließen.
+- 1949 bewarb sich Maria Reichenbach auf die Professur der Philosophie am Los Angeles City College, wo sie bis 1974 unter richtete.
+
+**Literatur zur Person (Auswahl):**
+
 - Avkiran, Ariadne Sevgi: Maria Reichenbach, 1909–2013. In: Germersheimer Übersetzerlexikon UeLEX (online), 27. Juli 2022. URL: https://uelex.de/uebersetzer/reichenbach-maria/. Zuletzt besucht am: 06.07.2024
 - Avkıran, A. S. (2023):  Das private Netzwerk im Exil. In: Henking, I. W., P. Dietiker und M. Rougemont (Hrsg.): Translation und Exil (1933-1945) II. Netzwerke des Übersetzens. Wien/Berlin. S. 473-491. URL: https://link.springer.com/chapter/10.57088/978-3-7329-8977-5_20
+- Hans Reichenbach an den Verlag Birkhäuser, Brief vom 27. Januar 1946. Hans Reichenbach Papers, HR037-03-128.
+
+**Publikationen (Auswahl):**
+
+- Reichenbach, Maria (1978): Memories of Hans Reichenbach: Maria Reichenbach. In: Cohen, Robert / Reichenbach, Maria (Hg.): Hans Reichenbach. Selected Writings 1909–1953. Vol. 1. Dordrecht, Boston: D. Reidel, S. 78–88.
+- Reichenbach, Maria (1993): Erinnerungen und Reflexionen. In: Haller, Rudolf / Stadler, Friedrich (Hg.): Wien – Berlin – Prag. Der Aufstieg der wissenschaftlichen Philosophie. Wien: Hölder Pichler-Tempsky, S. 284–295.
+
+**Siehe auch:**
+
+- Germersheimer Übersetzerlexikon ([M Reichenbach](https://uelex.de/uebersetzer/reichenbach-maria/))
+- Deutsche Biografie ([M. Reichenbach](https://www.deutsche-biographie.de/sfz104909.html))
 
 #### Ilse Rosenthal-Schneider (geb. Schneider)
 
@@ -1696,12 +1786,44 @@ Literatur:
 
 ✶ 1873 - ✝ 1948
 
+**Exil:**
+
+- Im Mai 1933 wurde Alice Salomon in ihrer Funktion als Präsidentin der Frauenakademie von einer nationalsozialistischen Beamtin aufgefordert, die jüdische Direktorin  Hilde Lion zu entlassen. Diesen Vorfall kommentierte Alice Salomon folgendermaßen: Erziehungsminister wird „Der mit neue Briefen bombardiert, die sich darüber beklagen, die Frauenakademie sei eine Brutstätte des Kommunismus. Das war natürlich absurd, wenn überhaupt, dann tendierten Studenten und Lehrkräfte zum Konservatismus. (...) Ich erklärte, dass wir Dr. Lion deshalb ernannt hatten,  sie die Beste für diese Stellung und eine der begabtesten Frauen ihrer Generation war; außerdem habe sie einen Vertrag auf Lebenszeit. Ich sagte ihr, dass ich eher die Akademie zerstören würde, die mir so lieb war wie das jüngste Kind, als dass ich eine Mitarbeiterin betrügen würde, und dass ich nie jemanden aus rassischen oder religiösen Gründen entlassen würde.“
+- Am 9. Mai 1933 wurde die Akademie auf Antrag von Alice Salomon mit der Begründung aufgelöst, dass die finanzielle Basis für den Weiterbestand der Akademie durch die Nationalsozialisten nicht mehr gegeben sei. Außerdem sei es nicht mehr möglich, Forschungsinhalte eigenständig zu bestimmen. [12] Anschließend wurde Alice Salomon von den neuen Machthabern aus allen öffentlichen Ämtern gedrängt.
+- Im Jahr 1937 wurde die inzwischen 65-Jährige,kurz nachdem sie von einer Vortragsreise aus den USA zurückgekehrt war, nach Verhören durch die Gestapo zur Emigration gezwungen.
+
+**Publikationen (Auswahl):**
+
+- Soziale Frauenpflichten. 1902. 
+- Die Ursachen der ungleichen Entlohnung von Männer- und Frauenarbeit. Leipzig 1906 (Dissertation an der Philosophischen Fakultät der Friedrich-Wilhelms-Universität Berlin, 14. Juli 1906).
+- Soziale Frauenbildung. Berlin 1908.
+- Einführung in die Wirtschaftslehre. 1909 (6. Aufl. 1923).
+- Was wir uns und anderen schuldig sind. Ansprachen und Aufsätze für junge Mädchen.Leipzig/Berlin 1912.
+- Leitfaden der Wohlfahrtspflege. Leipzig 1921.
+- Soziale Diagnose. Berlin 1926.
+- Soziale Therapie. 1926 (gemeinsam mit Siddy Wronsky)
+
+**Siehe auch:**
+
+- Germersheimer Übersetzerlexikon ([A. Salomon](https://uelex.de/uebersetzer/reichenbach-maria/))
+- Wikipedia ([A. Salomon](https://de.wikipedia.org/wiki/Alice_Salomon))
+- Deutsches Digitales Frauenarchiv ([A. Salomon](https://www.digitales-deutsches-frauenarchiv.de/akteurinnen/alice-salomon))
+- Alice Salomon Archiv ([hier](https://www.alice-salomon-archiv.de/geschichte/alice-salomon/alice-salomon-leben-und-werk/))
+- FemBio ([A. Salomon](https://www.fembio.org/biographie.php/frau/biographie/alice-salomon))
+
 #### Elisabeth Schöndube 
 
 !noch nicht im Seminar erforscht! 
 
 ✶   
 ✝ 
+
+**Siehe auch:**
+
+- Deutsche Biografie ([E. Schöndube]())
+- Oxford Reference ([E. Schöndube]())
+- Library of Congress Books ([E. Schöndube]())
+- Harvard Library ([E. Schöndube]())
 
 #### Elisabeth Schumpeter
 
@@ -1812,6 +1934,43 @@ Die Hessische Landeszentrale für politische Bildung bietet umfassendes Material
 Helene Stöcker wurde anhand ihrer Biografie, ihrem Projekt "Bund für Mutterschutz und Sexualreform" und der Verbindung zu Digital Humanities (da die Bibliographie und die Autobiographie etc. mit Wikidata gemacht wurde) vorgestellt. Ihr Leben im Exil (1933) und die auffälligen Merkmale und Ironien in ihrem Werk wurden ebenfalls diskutiert.
 
 Inhalte ...
+
+**Exil:**
+
+- Mit der Machtübernahme der Nationalsozialisten 1933 floh sie über die Schweiz nach Schweden. Schon früh erkannte Stöcker, die entschiedene Gegnerin jedes antisemitischen Gedankenguts, die „Schrecknisse der Judenverfolgung”. 
+- In Stockholm veranstaltete der Schutzverband deutscher Schriftsteller am 13. November 1939 eine Geburtstagsfeier für Helene Stöcker, in der noch einmal ihre internationale Bedeutung offenbar wurde. Mit Mühe gelang ihr dann die Flucht über die Sowjetunion und Japan in die Vereinigten Staaten, wo sie 1943 in New York völlig mittellos an Krebs verstarb.
+
+**Literatur zur Person (Auswahl):**
+
+- Rolf von Bockel: Philosophin einer „neuen Ethik“. Helene Stöcker (1869–1943). Edition Hamburg Bormann und von Bockel, Hamburg 1991. 
+- Gudrun Hamelmann: Helene Stöcker, der „Bund für Mutterschutz“' und „Die Neue Generation“. Haag und Herchen, Frankfurt am Main 1998. 
+- Martina Hein: emanzipatorischen Die Verknüpfung und von eugenischem Gedankengut bei Helene Stöcker (1869–1943). Mikrofiche-Ausgabe, 3 Mikrofiches, Bremen 1998. 
+- Rosemarie Schumann: Helene Stöcker. Verkünderin und Verwirklicherin. In: Olaf Groehler (Hrsg.): Alternativen. Schicksale deutscher Bürger. Verlag der Nation, Berlin 1987. 
+- Annegret Stopczyk-Pfundstein: Philosophin der Liebe. Helene Stöcker. BoD, Norderstedt 2003. 
+- Christl Wickert: Helene Stöcker 1869–1943. Frauenrechtlerin, Sexualreformerin und Pazifistin. Eine Biographie. Dietz, Bonn 1991. 
+- Christl Wickert: Helene Stöcker (1869– 1943), Leben und Arbeit für die Gleichstellung der Frau. In: Kritische Justiz (Hrsg.): Streitbare Juristen. Eine andere Tradition. Nomos, Baden Baden 1988.
+
+**Publikationen (Auswahl):**
+
+- Zur Kunstanschauung des 18. Jahrhunderts: Von Winckelmann bis zu Wackenroder (= Palaestra, Band 26), Mayer & Müller, Berlin 1904, Dissertation Universität Bern 1902. 
+- Die Liebe und die Frauen. Ein Manifest der Emanzipation von Frau und Mann im deutschen Kaiserreich. Minden: Bruns, 1906. Zweite durchge. u. verm. Aufl. Minden: Bruns, 1908. 
+- Krisenmache. Eine Abfertigung. 1910. 
+- Geschlechterpsychologie und Krieg. 1915. 
+- Moderne Bevölkerungspolitik. 1916. 
+- Die Liebe der Zukunft. 1920. 
+- Das Werden der neuen Moral. 1921. 
+- Erotik und Altruismus. 1924. 
+- Verkünder und Verwirklicher. Beiträge zum Gewaltproblem. 1928
+
+**Siehe auch:**
+
+- DLF Beitrag ([hier](https://www.deutschlandfunk.de/vor-150-jahren-geboren-helene-stoecker-attackierte-die-100.html)) 
+- Literatur Rheinland ([hier](https://www.literatur-rheinland.de/projekte/autorinnen-portraets/stoecker-helene)) 
+- Magnus Hirschfeld Gesellschaft - Beitrag ([hier](https://magnus-hirschfeld.de/gedenken/personen/stocker-helene/)) 
+- Archiv der deutschen Frauenbewegung - Forschungsinstitut und Dokumentationszentrum ([hier](https://addf-kassel.de/publikationen/buchprojekte/stoecker)) 
+- FrauenMediaTurm ([H. Stöcker](https://frauenmediaturm.de/historische-frauenbewegung/helene-stoecker-1869-1943/)) 
+- Lego ([H. Stöcker](https://www.dhm.de/lemo/biografie/helene-stoecker)) 
+- Deutsches Digitales Frauenarchiv ([H. Stöcker](https://www.digitales-deutsches-frauenarchiv.de/akteurinnen/helene-stoecker))
 
 #### Margarete Susman
 
